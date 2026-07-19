@@ -26,7 +26,8 @@ Build an automated AI "Discovery Engine" that:
 
 1. Fetches public Blinkit reviews from the Google Play Store (and App Store,
    where available)
-2. Uses Claude to analyze review text for cross-category behavioral patterns
+2. Uses an LLM (Llama 3.3 70B via the Groq API) to analyze review text for
+   cross-category behavioral patterns
 3. Surfaces the **top 10 categories** users should be nudged to try, backed
    by evidence from real reviews
 4. Publishes results to a live, always-current dashboard
@@ -79,7 +80,7 @@ The engine's output must be able to answer:
 
 - Personalized, per-user recommendations (this is an aggregate/market-level
   discovery tool, not a recommender system for individual users)
-- Non-English reviews (initial version filters to English to keep Claude
+- Non-English reviews (initial version filters to English to keep LLM
   analysis reliable within a tight timeline)
 - Real-time/streaming updates (nightly batch is sufficient for the research
   goal)
