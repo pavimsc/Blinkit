@@ -28,18 +28,24 @@ See [problemstatement.md](problemstatement.md) for the full brief and the
    │      Deduped by reviewId — safe to re-run.
    │
    ├─ 2. analysis/extract_themes.py   (Pass A — per review)
-   │      Sends each new review to Groq (Llama 3.3 70B) with a fixed JSON
-   │      schema: which category(ies) it relates to and WHY (habitual
-   │      purchase / unmet need or friction / curiosity), habit signal,
-   │      friction point, unmet need, discovery channel, user segment,
-   │      sentiment. → data/themes.json
+   │      Sends each batch of new reviews to Groq (Llama 3.1 8B) with a
+   │      fixed JSON schema: which category(ies) it relates to and WHY
+   │      (habitual purchase / unmet need or friction / curiosity), habit
+   │      signal, friction point, unmet need, discovery channel, user
+   │      segment, sentiment. → data/themes.json
+   │      Uses the small/fast model here on purpose: this step runs many
+   │      times a night (once per batch), and Groq's free tier gives it a
+   │      500K tokens/day budget vs. 100K for the 70B model — that larger
+   │      budget is saved for the one synthesis call below, where quality
+   │      matters more than volume.
    │      Idempotent — only untagged reviews are sent to the model.
    │
    ├─ 3. analysis/synthesize_insights.py   (Pass B — aggregate)
    │      Python (not the LLM) counts everything: how many reviews show
    │      each category as an unmet need vs. a habitual purchase, how many
    │      show friction, etc. Python also RANKS and SELECTS the top
-   │      categories from those counts. Groq is only asked to write a
+   │      categories from those counts. Groq (Llama 3.3 70B, one call) is
+   │      only asked to write a
    │      1-2 sentence rationale per already-selected category, and to
    │      answer the 8 research questions using counts it's handed —
    │      it cannot invent a number or pick which categories appear.
