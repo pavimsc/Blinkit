@@ -1,0 +1,189 @@
+:root {
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --text: #1c1c1a;
+  --text-muted: #6b6b64;
+  --border: #e4e2dc;
+  --accent: #d84315;
+  --accent-soft: #fdece5;
+  --positive: #2e7d32;
+  --warning-bg: #fff4e5;
+  --warning-border: #f0b429;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171715;
+    --surface: #201f1c;
+    --text: #f2f1ed;
+    --text-muted: #a8a69f;
+    --border: #33322d;
+    --accent: #ff7043;
+    --accent-soft: #3a241d;
+    --positive: #66bb6a;
+    --warning-bg: #3a2f16;
+    --warning-border: #f0b429;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.page-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 2.5rem 1.5rem 2rem;
+}
+
+.header-inner { max-width: 880px; margin: 0 auto; }
+
+h1 { margin: 0 0 0.5rem; font-size: 1.9rem; }
+
+.subtitle { margin: 0 0 1rem; color: var(--text-muted); max-width: 60ch; }
+
+.meta-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.meta-bar span {
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.container { max-width: 880px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+
+section { margin-bottom: 2.5rem; }
+
+h2 { font-size: 1.3rem; margin-bottom: 0.35rem; }
+
+.section-note { color: var(--text-muted); font-size: 0.92rem; margin-top: 0; margin-bottom: 1.25rem; max-width: 65ch; }
+
+.banner {
+  padding: 0.9rem 1.1rem;
+  border-radius: 8px;
+  font-size: 0.92rem;
+  margin-bottom: 1.5rem;
+}
+
+.banner-warning {
+  background: var(--warning-bg);
+  border: 1px solid var(--warning-border);
+}
+
+.category-list { display: flex; flex-direction: column; gap: 0.9rem; }
+
+.category-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+}
+
+.category-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.category-rank {
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.85rem;
+  margin-right: 0.5rem;
+}
+
+.category-name { font-weight: 600; font-size: 1.05rem; }
+
+.evidence-badge {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.evidence-bar-track {
+  height: 6px;
+  background: var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 0.7rem;
+}
+
+.evidence-bar-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 999px;
+}
+
+.rationale { margin: 0 0 0.6rem; }
+
+.quotes { margin: 0; padding-left: 0; list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+
+.quotes li {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  border-left: 3px solid var(--border);
+  padding-left: 0.7rem;
+  font-style: italic;
+}
+
+.questions-list { display: flex; flex-direction: column; gap: 0.7rem; }
+
+.question-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.3rem;
+}
+
+.question-text { font-weight: 600; margin-bottom: 0.35rem; }
+
+.question-answer { margin: 0 0 0.4rem; }
+
+.question-evidence { font-size: 0.8rem; color: var(--text-muted); }
+
+.validation-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem;
+}
+
+.validation-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.92rem;
+}
+
+.validation-row:last-child { border-bottom: none; }
+
+.validation-row .label { color: var(--text-muted); }
+
+.page-footer {
+  text-align: center;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.page-footer a { color: var(--accent); }
+
+.empty-state { color: var(--text-muted); font-style: italic; }
