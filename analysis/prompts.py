@@ -41,12 +41,26 @@ def build_extraction_prompt(batch: list[dict]) -> list[dict]:
     system = (
         "You are a market research analyst tagging app store reviews for a "
         "quick-commerce category-discovery study. For EACH review, extract "
-        "structured signals. Only use categories from this fixed list (or "
-        "\"Other\" if truly none apply): " + taxonomy_list + ". "
+        "structured signals.\n\n"
+        "STRICT RULE for category_signals: only include a category if the "
+        "review explicitly names it or unambiguously refers to a specific "
+        "product in it (e.g. \"the milk was spoiled\" -> Dairy & Bakery). "
+        "Do NOT tag any category just because the review expresses general "
+        "satisfaction or frustration with the app/delivery/service as a "
+        "whole — vague praise like \"great app, has everything I need\" gets "
+        "an EMPTY category_signals list. For each category you do include, "
+        "set relationship to exactly one of:\n"
+        '  "habitual_purchase" — review shows they already buy this regularly\n'
+        '  "unmet_need_or_friction" — review complains about, or wishes for '
+        "better availability/quality/service in, this category\n"
+        '  "curious_exploring" — review shows first-time or occasional '
+        "interest in this category\n\n"
+        "Only use categories from this fixed list (or \"Other\" if truly none "
+        "apply): " + taxonomy_list + ". "
         "Respond with strict JSON only, no prose, matching exactly this shape:\n"
         '{"results": [{'
         '"reviewId": string, '
-        '"categories_mentioned": [string], '
+        '"category_signals": [{"category": string, "relationship": string}], '
         '"habit_signal": boolean, '
         '"habit_reason": string, '
         '"friction_point": string or null, '
@@ -63,25 +77,34 @@ def build_extraction_prompt(batch: list[dict]) -> list[dict]:
     ]
 
 
-def build_synthesis_prompt(aggregates: dict, sample_quotes: dict) -> list[dict]:
-    """Pass B: narrate over Python-computed counts — the model may not invent numbers."""
+def build_synthesis_prompt(ranked_categories: list[dict], aggregates: dict, sample_quotes: dict) -> list[dict]:
+    """Pass B: narrate over Python-computed counts and Python-selected categories.
+
+    Python has already decided WHICH 10 categories make the list and WHAT their
+    evidence counts are (ranked by unmet-need/curiosity signal, not raw
+    popularity). The model's only job is to write a short rationale per
+    category, in the given order, using only the given quotes — it does not
+    select categories, rank them, or invent any number.
+    """
     system = (
         "You are a product research analyst writing a report for a quick-commerce "
-        "PM. You are given PRE-COMPUTED, ACCURATE counts and a set of REAL user "
-        "quotes. Do not invent or alter any numbers — only use the evidence_count "
-        "values you are given. Write concise, evidence-grounded analysis.\n\n"
+        "PM. Categories have ALREADY been selected and ranked by a separate "
+        "system using real counts — your job is only to write a 1-2 sentence "
+        "rationale for each, using ONLY the quotes provided for that category. "
+        "Do not add, reorder, or drop categories. Do not invent numbers.\n\n"
         "Respond with strict JSON only, matching exactly this shape:\n"
-        '{"top_10_categories": [{"category": string, "evidence_count": number, '
-        '"rationale": string, "quotes": [string]}], '
+        '{"category_rationales": [{"category": string, "rationale": string}], '
         '"research_questions": {'
         + ", ".join(f'"{k}": {{"answer": string, "evidence_count": number}}' for k in RESEARCH_QUESTIONS)
         + "}}"
     )
     user = (
-        f"Research questions to answer:\n"
+        "Categories to write rationale for, in this exact order (each already "
+        f"ranked and counted by the system):\n{ranked_categories}"
+        + f"\n\nResearch questions to answer:\n"
         + "\n".join(f"- {k}: {v}" for k, v in RESEARCH_QUESTIONS.items())
-        + f"\n\nPre-computed aggregate counts (ground truth, do not change):\n{aggregates}"
-        + f"\n\nSample real quotes to draw from (attribute claims to these, do not fabricate others):\n{sample_quotes}"
+        + f"\n\nPre-computed aggregate counts for the research questions (ground truth, do not change):\n{aggregates}"
+        + f"\n\nSample real quotes to draw from for the research questions (attribute claims to these, do not fabricate others):\n{sample_quotes}"
     )
     return [
         {"role": "system", "content": system},
