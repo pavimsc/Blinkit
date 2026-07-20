@@ -1,179 +1,192 @@
 {
-  "generated_at": "2026-07-20T12:32:19.949134+00:00",
+  "generated_at": "2026-07-20T12:42:31.664570+00:00",
   "sample_size": 200,
   "low_confidence": false,
   "aggregates": {
     "sample_size": 200,
-    "category_counts": {
-      "Groceries & Staples": 6,
-      "Electronics Accessories": 4,
-      "Snacks & Beverages": 3,
-      "Home & Kitchen Needs": 3,
-      "Fruits & Vegetables": 3,
-      "Personal Care": 2,
-      "Dairy & Bakery": 2,
-      "Beauty & Cosmetics": 1,
-      "Health & Wellness": 1,
-      "Baby Care": 1,
-      "Pet Supplies": 1,
-      "Cleaning & Household Supplies": 1
+    "category_summary": {
+      "Groceries & Staples": {
+        "habitual_purchase": 2,
+        "unmet_need_or_friction": 5,
+        "curious_exploring": 1,
+        "explore_worthy_count": 6,
+        "total_count": 8
+      },
+      "Fruits & Vegetables": {
+        "habitual_purchase": 0,
+        "unmet_need_or_friction": 1,
+        "curious_exploring": 0,
+        "explore_worthy_count": 1,
+        "total_count": 1
+      },
+      "Dairy & Bakery": {
+        "habitual_purchase": 0,
+        "unmet_need_or_friction": 1,
+        "curious_exploring": 0,
+        "explore_worthy_count": 1,
+        "total_count": 1
+      },
+      "Snacks & Beverages": {
+        "habitual_purchase": 0,
+        "unmet_need_or_friction": 2,
+        "curious_exploring": 0,
+        "explore_worthy_count": 2,
+        "total_count": 2
+      },
+      "Health & Wellness": {
+        "habitual_purchase": 0,
+        "unmet_need_or_friction": 0,
+        "curious_exploring": 1,
+        "explore_worthy_count": 1,
+        "total_count": 1
+      },
+      "Home & Kitchen Needs": {
+        "habitual_purchase": 0,
+        "unmet_need_or_friction": 1,
+        "curious_exploring": 1,
+        "explore_worthy_count": 2,
+        "total_count": 2
+      },
+      "Electronics Accessories": {
+        "habitual_purchase": 1,
+        "unmet_need_or_friction": 2,
+        "curious_exploring": 0,
+        "explore_worthy_count": 2,
+        "total_count": 3
+      }
     },
     "segment_counts": {
-      "unclear": 148,
+      "unclear": 157,
       "price-sensitive": 11,
-      "convenience-seeker": 39,
-      "explorer": 1,
-      "habitual": 1
+      "convenience-seeker": 29,
+      "habitual": 3
     },
     "sentiment_counts": {
-      "positive": 147,
-      "negative": 44,
-      "neutral": 9
+      "positive": 148,
+      "negative": 45,
+      "neutral": 7
     },
     "discovery_channel_counts": {
       "none_mentioned": 200
     },
-    "habit_signal_true_count": 11,
-    "habit_signal_false_count": 189,
-    "friction_mentioned_count": 52,
-    "unmet_need_mentioned_count": 34,
+    "habit_signal_true_count": 8,
+    "habit_signal_false_count": 192,
+    "friction_mentioned_count": 53,
+    "unmet_need_mentioned_count": 18,
     "research_question_evidence_counts": {
-      "q1_repeat_categories": 11,
-      "q2_exploration_blockers": 52,
+      "q1_repeat_categories": 8,
+      "q2_exploration_blockers": 53,
       "q3_discovery_channels": 0,
-      "q4_habit_role": 11,
-      "q5_info_needed": 34,
-      "q6_recurring_frustrations": 52,
-      "q7_experimenting_segments": 1,
-      "q8_unmet_needs": 34
+      "q4_habit_role": 8,
+      "q5_info_needed": 18,
+      "q6_recurring_frustrations": 53,
+      "q7_experimenting_segments": 0,
+      "q8_unmet_needs": 18
     }
   },
   "top_10_categories": [
     {
       "category": "Groceries & Staples",
       "evidence_count": 6,
-      "rationale": "Users frequently purchase from this category due to its convenience for quick grocery and daily essentials delivery.",
+      "total_mentions": 8,
       "quotes": [
-        "Blinkit is very convenient for quick grocery and daily essentials delivery. The app is easy to use, delivery is usually fast, and I can find most items I need. A great option when you need something urgently without going to the store.",
-        "best ever fast grocries and electronics things app .best ever app",
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified"
-      ]
+        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified",
+        "the app is good but it doesn't deliver to my locality but it delivers to the areas which is 4 km apart so I wanted this app in ranipatra my locality because it has a variety of products from snacks to daily essentials so I request you to please deliver in my area.",
+        "handling charges very high hai. aur kam quantity wala saman kam milta hai isme. 200 se kam me high delivery charge leta hai. isko thik karna chaiye"
+      ],
+      "rationale": "Users find the app very handy and useful at difficult times, with plenty of options that satisfy all immediate daily and instant needs, and they appreciate the variety of products from snacks to daily essentials."
     },
     {
       "category": "Electronics Accessories",
-      "evidence_count": 4,
-      "rationale": "Users buy from this category for its convenience and availability of electronic items.",
+      "evidence_count": 2,
+      "total_mentions": 3,
       "quotes": [
-        "best ever fast grocries and electronics things app .best ever app",
         "i ordered guitar kit but many things were n missing from it i thought of return and when i returned next day it was 10th of July and today is 19 its been 8 days and there is no refund i tried to contact customer care no action was done when i send email to the mentioned email online 3 days ago and still there is no action the worst app ever they dont even have customer care no. and no action on complains they dont even care about customers",
-        "The customer service is very poor. I ordered an wired earphone and it showed that it will magnetically snap. The issue was there and the functions were not as specific to the details mentioned still customer care denied change and asked to contact brand. i recommend to use zepto and other quick commerce and not blinkit."
-      ]
+        "The customer service is very poor. I ordered an wired earphone and it showed that it will magnetically snap. The issue was there and the functions were not as specific to the details mentioned still customer care denied change and asked to contact brand. i recommend to use zepto and other quick commerce and not blinkit.",
+        "best ever fast grocries and electronics things app .best ever app"
+      ],
+      "rationale": "The customer service is very poor for electronics accessories, with issues such as missing items, poor product quality, and unhelpful customer care, leading to a negative experience."
     },
     {
       "category": "Snacks & Beverages",
-      "evidence_count": 3,
-      "rationale": "Users purchase from this category for its convenience and availability of snack items.",
+      "evidence_count": 2,
+      "total_mentions": 2,
       "quotes": [
         "perfect app and fast delivery but i have I have noticed that the ice creams almost always come bad",
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified",
         "the app is good but it doesn't deliver to my locality but it delivers to the areas which is 4 km apart so I wanted this app in ranipatra my locality because it has a variety of products from snacks to daily essentials so I request you to please deliver in my area."
-      ]
+      ],
+      "rationale": "The app is good but has issues with delivering certain products, such as ice creams, which often arrive in bad condition, and users wish for more variety and better quality in snacks and daily essentials."
     },
     {
       "category": "Home & Kitchen Needs",
-      "evidence_count": 3,
-      "rationale": "Users buy from this category due to its convenience and availability of home and kitchen items.",
+      "evidence_count": 2,
+      "total_mentions": 2,
       "quotes": [
         "Great experience with the customer support team! I had to return an unstable laptop table, and the executive was very helpful in resolving the issue quickly, arranging a pickup, and processing a full refund back to my original payment source without any hassle. Super fast service.",
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified",
-        "very good blanket expensive items "
-      ]
-    },
-    {
-      "category": "Fruits & Vegetables",
-      "evidence_count": 3,
-      "rationale": "Users purchase from this category for its convenience and availability of fresh produce.",
-      "quotes": [
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified",
-        "Dont purchase eating items from here like dryfruits, fruits",
-        "delivering Rotten items late often."
-      ]
-    },
-    {
-      "category": "Personal Care",
-      "evidence_count": 2,
-      "rationale": "Users buy from this category for its convenience and availability of personal care items.",
-      "quotes": [
-        "DO NOT ORDER ANYTHING FROM BLINKIT NO CUSTOMER SUPPORT ORDERED ODOMOS MOSQUITO BAT RECEIVED DEFECTIVE PRODUCT CUSTOMER SERVICE IS OF NO HELP THEY ASSIGN AN EXECUTIVE, THE EXECUTIVE CLOSES THE COMPLAINT WITHOUT INTERACTING",
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified"
-      ]
-    },
-    {
-      "category": "Dairy & Bakery",
-      "evidence_count": 2,
-      "rationale": "Users purchase from this category for its convenience and availability of dairy and bakery items.",
-      "quotes": [
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified",
-        "this time milk amul gold was no gud . chicken was also no good. can I return chicken pack?"
-      ]
-    },
-    {
-      "category": "Beauty & Cosmetics",
-      "evidence_count": 1,
-      "rationale": "Users buy from this category for its convenience and availability of beauty and cosmetic items.",
-      "quotes": [
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified"
-      ]
+        "very good blanket expensive items 🤌🤌"
+      ],
+      "rationale": "Users have a great experience with the customer support team for home and kitchen needs, with helpful executives resolving issues quickly and arranging pickups and refunds without hassle."
     },
     {
       "category": "Health & Wellness",
       "evidence_count": 1,
-      "rationale": "Users purchase from this category for its convenience and availability of health and wellness items.",
+      "total_mentions": 1,
       "quotes": [
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified"
-      ]
+        "free ambulance service....❤️blinkit ...we will be your faithful customer throughout our life ...keep it up...highly appreciated 🙏"
+      ],
+      "rationale": "Users appreciate the free ambulance service and are highly satisfied with the app, promising to be faithful customers throughout their life, highly appreciating the service."
     },
     {
-      "category": "Baby Care",
+      "category": "Fruits & Vegetables",
       "evidence_count": 1,
-      "rationale": "Users buy from this category for its convenience and availability of baby care items.",
+      "total_mentions": 1,
       "quotes": [
-        "very handy and useful at difficult times. options are plenty and all immediate daily and instant needs are satified"
-      ]
+        "Dont purchase eating items from here like dryfruits, fruits"
+      ],
+      "rationale": "Users advise against purchasing eating items like dry fruits and fruits from the app, indicating a need for better quality items in this category."
+    },
+    {
+      "category": "Dairy & Bakery",
+      "evidence_count": 1,
+      "total_mentions": 1,
+      "quotes": [
+        "this time milk amul gold was no gud . chicken was also no good. can I return chicken pack?"
+      ],
+      "rationale": "Users are not satisfied with the quality of certain dairy and bakery products, such as milk and chicken, and wish to return these items, indicating a need for better quality control."
     }
   ],
   "research_questions": {
     "q1_repeat_categories": {
-      "answer": "Users repeatedly buy from the same categories due to convenience, availability of daily needs, and satisfaction with the service.",
-      "evidence_count": 11
+      "answer": "Users repeatedly buy from the same categories because they find the app very handy and useful at difficult times, with plenty of options that satisfy all immediate daily and instant needs.",
+      "evidence_count": 8
     },
     "q2_exploration_blockers": {
-      "answer": "High prices, poor quality products, and unavailability of items prevent users from exploring new categories.",
-      "evidence_count": 52
+      "answer": "High prices, poor customer service, and lack of variety in certain categories prevent users from exploring new categories.",
+      "evidence_count": 53
     },
     "q3_discovery_channels": {
-      "answer": "No discovery channels were mentioned by users.",
+      "answer": "There is no mention of specific discovery channels, but users seem to appreciate the convenience and speed of the app.",
       "evidence_count": 0
     },
     "q4_habit_role": {
-      "answer": "Habits play a significant role in shopping behavior, with users frequently purchasing from the same categories due to convenience and satisfaction.",
-      "evidence_count": 11
+      "answer": "Habits play a significant role in shopping behavior, with users mentioning that they buy a lot of things from the app and appreciate its convenience for quick grocery and daily essentials delivery.",
+      "evidence_count": 8
     },
     "q5_info_needed": {
-      "answer": "Users need information about product quality, prices, and availability before trying a new category.",
-      "evidence_count": 34
+      "answer": "Users need information about product quality, prices, and availability before trying a new category, as well as better customer service and return policies.",
+      "evidence_count": 18
     },
     "q6_recurring_frustrations": {
-      "answer": "Recurring frustrations include late deliveries, poor customer service, and unavailability of items.",
-      "evidence_count": 52
+      "answer": "Recurring frustrations include high prices, poor customer service, lack of variety, and issues with delivery, such as late or missing items.",
+      "evidence_count": 53
     },
     "q7_experimenting_segments": {
-      "answer": "The 'explorer' segment is more likely to experiment with new categories.",
-      "evidence_count": 1
+      "answer": "There is no clear indication of which user segments are more likely to experiment, but users who appreciate the convenience and speed of the app may be more open to trying new categories.",
+      "evidence_count": 0
     },
     "q8_unmet_needs": {
-      "answer": "Unmet needs include reliable customer support, smooth return and refund processes, and accurate mapping.",
-      "evidence_count": 34
+      "answer": "Unmet needs include better product quality, lower prices, more variety, and improved customer service, as well as specific needs such as delivery in certain localities and proper packaging.",
+      "evidence_count": 18
     }
   },
   "validation": {
