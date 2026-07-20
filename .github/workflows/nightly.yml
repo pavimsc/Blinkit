@@ -1,4 +1,4 @@
-name: Nightly Discovery Engine
+name: Nightly AI-Powered Discovery Engine
 
 on:
   schedule:

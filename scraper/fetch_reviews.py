@@ -15,7 +15,7 @@ from analysis.io_utils import DATA_DIR, RAW_REVIEWS_PATH, load_json, save_json
 APP_ID = "com.grofers.customerapp"  # Blinkit's live consumer app (legacy Grofers package name)
 LANG = "en"
 COUNTRY = "in"
-FETCH_COUNT = 200  # newest reviews pulled per run
+FETCH_COUNT = 500  # newest reviews pulled per run
 
 
 def fetch_latest() -> list[dict]:
