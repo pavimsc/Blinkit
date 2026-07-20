@@ -1,4 +1,11 @@
-"""Pass A: tag each new review against a fixed schema via Groq (Llama 3.3 70B).
+"""Pass A: tag each new review against a fixed schema via Groq (Llama 3.1 8B).
+
+Uses the small/fast model here on purpose: this is the high-volume step (one
+call per batch of reviews, every night), and Groq's free tier gives the 8B
+model a 500K tokens/day budget vs. 100K for the 70B model. Structured tagging
+against a fixed schema doesn't need 70B-level reasoning — that budget is
+saved for the single synthesis call in synthesize_insights.py, where
+narrative quality actually matters.
 
 Idempotent — only reviews not already present in themes.json are sent to the
 model, so re-running never re-spends tokens on already-tagged reviews.
@@ -12,8 +19,8 @@ from groq import Groq
 from io_utils import RAW_REVIEWS_PATH, THEMES_PATH, load_json, save_json
 from prompts import build_extraction_prompt
 
-MODEL = "llama-3.3-70b-versatile"
-BATCH_SIZE = 12
+MODEL = "llama-3.1-8b-instant"
+BATCH_SIZE = 20
 
 
 def chunked(items: list, size: int):

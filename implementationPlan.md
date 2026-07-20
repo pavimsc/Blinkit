@@ -8,7 +8,7 @@ Each section below states which line(s) of the problem statement it satisfies.
 | Goal (problemstatement.md §Goal) | Implemented by |
 |---|---|
 | 1. Fetch public Play Store reviews | `scraper/fetch_reviews.py` |
-| 2. LLM analysis for cross-category patterns | `analysis/extract_themes.py` + `analysis/synthesize_insights.py` (Groq / Llama 3.3 70B) |
+| 2. LLM analysis for cross-category patterns | `analysis/extract_themes.py` (Groq / Llama 3.1 8B) + `analysis/synthesize_insights.py` (Groq / Llama 3.3 70B) |
 | 3. Top 10 categories, evidence-backed | `synthesize_insights.py` output → `data/insights.json` |
 | 4. Live, always-current dashboard | `dashboard/` static site on GitHub Pages, reads `data/insights.json` |
 | 5. Nightly, zero-manual-intervention run | `.github/workflows/nightly.yml` (cron) |
@@ -52,7 +52,7 @@ Blinkit/
   satisfies the "public data" constraint in problemstatement.md §Constraints)
 - Language filter: English only (matches Out of Scope)
 
-## 4. Analysis pipeline (two-pass, both via Groq/Llama 3.3 70B)
+## 4. Analysis pipeline (two-pass: Groq/Llama 3.1 8B for tagging, Groq/Llama 3.3 70B for synthesis)
 
 **Why two passes:** keeps every number on the dashboard traceable to code,
 not LLM guesswork — this directly satisfies the Success Criteria line
@@ -60,15 +60,27 @@ not LLM guesswork — this directly satisfies the Success Criteria line
 
 **Pass A — `extract_themes.py` (per review):**
 For each new review, ask the model to return fixed-schema JSON:
-- `categories_mentioned`: list
+- `category_signals`: list of `{category, relationship}`, where relationship
+  is `habitual_purchase` / `unmet_need_or_friction` / `curious_exploring` —
+  only tagged if the review names or clearly implies a specific category,
+  never for generic praise/complaints about the app as a whole
 - `habit_signal`: bool + short reason
-- `friction_point`: type + excerpt
+- `friction_point`: text or null
 - `unmet_need`: text or null
-- `segment_signal`: e.g. price-sensitive / convenience-seeker / explorer
+- `discovery_channel`: e.g. search / home_page_recommendation / word_of_mouth / none_mentioned
+- `segment_signal`: e.g. price-sensitive / convenience-seeker / explorer / habitual / unclear
 - `sentiment`: positive / negative / neutral
 
-Batched ~10-15 reviews per call to control token usage. Already-processed
-review IDs are skipped (idempotent), so re-running never wastes a call.
+Batched ~20 reviews per call. Already-processed review IDs are skipped
+(idempotent), so re-running never wastes a call.
+
+Runs on **Llama 3.1 8B**, not the 70B model — a deliberate fix after a real
+failure: the first version used 70B for both passes, and tagging ~300 new
+reviews in one run consumed almost the entire 100K-tokens/day free-tier
+budget for that model, leaving nothing for the synthesis call. 8B has a
+500K/day budget on Groq's free tier and is more than accurate enough for
+tagging against a fixed schema — the 70B model's extra reasoning quality is
+reserved for the single synthesis call below, where it actually matters.
 
 **Pass B — `synthesize_insights.py` (aggregate):**
 1. Python computes counts/frequencies from all of `themes.json` (category

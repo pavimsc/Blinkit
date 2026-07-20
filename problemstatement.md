@@ -26,7 +26,8 @@ Build an automated AI "Discovery Engine" that:
 
 1. Fetches public Blinkit reviews from the Google Play Store (and App Store,
    where available)
-2. Uses an LLM (Llama 3.3 70B via the Groq API) to analyze review text for
+2. Uses an LLM via the Groq API (Llama 3.1 8B for per-review tagging,
+   Llama 3.3 70B for final synthesis) to analyze review text for
    cross-category behavioral patterns
 3. Surfaces the **top 10 categories** users should be nudged to try, backed
    by evidence from real reviews
