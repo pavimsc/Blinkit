@@ -1,0 +1,163 @@
+const QUESTION_TEXT = {
+  q1_repeat_categories: "Why do users repeatedly buy from the same categories?",
+  q2_exploration_blockers: "What prevents users from exploring new categories?",
+  q3_discovery_channels: "How do users discover products today?",
+  q4_habit_role: "What role do habits play in shopping behavior?",
+  q5_info_needed: "What information do users need before trying a new category?",
+  q6_recurring_frustrations: "What frustrations emerge repeatedly?",
+  q7_experimenting_segments: "Which user segments are more likely to experiment?",
+  q8_unmet_needs: "What unmet needs emerge consistently across discussions?",
+};
+
+const QUESTION_ORDER = Object.keys(QUESTION_TEXT);
+
+function formatDate(iso) {
+  if (!iso) return "unknown";
+  const d = new Date(iso);
+  return d.toLocaleString(undefined, {
+    dateStyle: "medium",
+    timeStyle: "short",
+  });
+}
+
+function renderMeta(data) {
+  const bar = document.getElementById("meta-bar");
+  bar.innerHTML = "";
+  const items = [
+    `Last updated: ${formatDate(data.generated_at)}`,
+    `${data.sample_size} reviews analyzed`,
+  ];
+  for (const text of items) {
+    const span = document.createElement("span");
+    span.textContent = text;
+    bar.appendChild(span);
+  }
+
+  if (data.low_confidence) {
+    document.getElementById("low-confidence-banner").hidden = false;
+  }
+}
+
+function renderCategories(data) {
+  const list = document.getElementById("category-list");
+  list.innerHTML = "";
+
+  const categories = data.top_10_categories || [];
+  if (categories.length === 0) {
+    list.innerHTML = '<p class="empty-state">No categories have enough evidence yet — check back after tonight\'s run.</p>';
+    return;
+  }
+
+  const maxEvidence = Math.max(...categories.map((c) => c.evidence_count), 1);
+
+  categories.forEach((cat, i) => {
+    const card = document.createElement("div");
+    card.className = "category-card";
+
+    const top = document.createElement("div");
+    top.className = "category-card-top";
+    top.innerHTML = `
+      <div><span class="category-rank">#${i + 1}</span><span class="category-name">${cat.category}</span></div>
+      <div class="evidence-badge">${cat.evidence_count} unmet-need/friction/curiosity signals · ${cat.total_mentions} total mentions</div>
+    `;
+    card.appendChild(top);
+
+    const barTrack = document.createElement("div");
+    barTrack.className = "evidence-bar-track";
+    const barFill = document.createElement("div");
+    barFill.className = "evidence-bar-fill";
+    barFill.style.width = `${Math.max(6, (cat.evidence_count / maxEvidence) * 100)}%`;
+    barTrack.appendChild(barFill);
+    card.appendChild(barTrack);
+
+    if (cat.rationale) {
+      const rationale = document.createElement("p");
+      rationale.className = "rationale";
+      rationale.textContent = cat.rationale;
+      card.appendChild(rationale);
+    }
+
+    if (cat.quotes && cat.quotes.length) {
+      const ul = document.createElement("ul");
+      ul.className = "quotes";
+      cat.quotes.forEach((q) => {
+        const li = document.createElement("li");
+        li.textContent = `"${q}"`;
+        ul.appendChild(li);
+      });
+      card.appendChild(ul);
+    }
+
+    list.appendChild(card);
+  });
+}
+
+function renderQuestions(data) {
+  const list = document.getElementById("questions-list");
+  list.innerHTML = "";
+  const qa = data.research_questions || {};
+
+  QUESTION_ORDER.forEach((key) => {
+    const entry = qa[key];
+    if (!entry) return;
+    const card = document.createElement("div");
+    card.className = "question-card";
+
+    const questionText = document.createElement("div");
+    questionText.className = "question-text";
+    questionText.textContent = QUESTION_TEXT[key];
+    card.appendChild(questionText);
+
+    const answer = document.createElement("p");
+    answer.className = "question-answer";
+    answer.textContent = entry.answer;
+    card.appendChild(answer);
+
+    const evidence = document.createElement("div");
+    evidence.className = "question-evidence";
+    evidence.textContent = `Based on ${entry.evidence_count} tagged review${entry.evidence_count === 1 ? "" : "s"}`;
+    card.appendChild(evidence);
+
+    list.appendChild(card);
+  });
+}
+
+function renderValidation(data) {
+  const box = document.getElementById("validation-box");
+  const v = data.validation || {};
+  const rows = [
+    ["Sample size this run", `${data.sample_size} reviews`],
+    [
+      "Manual spot-check agreement",
+      v.agreement_pct != null
+        ? `${v.agreement_pct}% (n=${v.spot_check_sample_size}, last checked ${v.last_spot_check_date})`
+        : "Not yet run — see validation/spot_check.py",
+    ],
+    ["Category ranking method", "Python-computed counts of unmet-need/friction/curiosity signals — the model never selects or ranks categories"],
+    ["Evidence traceability", "Every count and quote shown is pulled directly from tagged review data, not generated by the model"],
+  ];
+
+  box.innerHTML = "";
+  rows.forEach(([label, value]) => {
+    const row = document.createElement("div");
+    row.className = "validation-row";
+    row.innerHTML = `<span class="label">${label}</span><span>${value}</span>`;
+    box.appendChild(row);
+  });
+}
+
+async function main() {
+  try {
+    const res = await fetch("../data/insights.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderMeta(data);
+    renderCategories(data);
+    renderQuestions(data);
+    renderValidation(data);
+  } catch (err) {
+    document.getElementById("meta-bar").textContent = `Could not load insights.json: ${err.message}`;
+  }
+}
+
+main();

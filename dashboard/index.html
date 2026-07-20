@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blinkit Category Discovery Engine</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="page-header">
+    <div class="header-inner">
+      <h1>Blinkit Category Discovery Engine</h1>
+      <p class="subtitle">
+        AI-generated recommendations for which categories users should explore next,
+        mined nightly from public Play Store reviews.
+      </p>
+      <div id="meta-bar" class="meta-bar">Loading latest run…</div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="low-confidence-banner" class="banner banner-warning" hidden>
+      Sample size is still small — treat these results as directional. They'll
+      sharpen automatically as more reviews accumulate each night.
+    </section>
+
+    <section>
+      <h2>Top categories to explore</h2>
+      <p class="section-note">
+        Ranked by how often reviews show an <strong>unmet need, friction, or curiosity</strong>
+        toward a category — not by how popular the category already is. A category users
+        already buy a lot doesn't rank higher just for being popular.
+      </p>
+      <div id="category-list" class="category-list"></div>
+    </section>
+
+    <section>
+      <h2>Research questions</h2>
+      <p class="section-note">
+        Every answer below is grounded in the same tagged-review data as the category list,
+        with an evidence count showing how many reviews support it.
+      </p>
+      <div id="questions-list" class="questions-list"></div>
+    </section>
+
+    <section>
+      <h2>How this was validated</h2>
+      <div id="validation-box" class="validation-box"></div>
+    </section>
+  </main>
+
+  <footer class="page-footer">
+    <p>
+      <a href="https://github.com/pavimsc/Blinkit" target="_blank" rel="noopener">Source code &amp; methodology on GitHub</a>
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
