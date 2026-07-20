@@ -1,4 +1,4 @@
-# Problem Statement: AI-Powered Category Discovery Engine for Blinkit
+# Problem Statement: Blinkit AI-Powered Discovery Engine
 
 ## Background
 

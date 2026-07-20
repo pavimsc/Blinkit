@@ -1,4 +1,4 @@
-# Blinkit Category Discovery Engine
+# Blinkit AI-Powered Discovery Engine
 
 An automated pipeline that mines public Blinkit Play Store reviews every
 night, tags them with structured signals via an LLM, and publishes

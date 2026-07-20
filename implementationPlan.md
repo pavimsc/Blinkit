@@ -1,4 +1,4 @@
-# Implementation Plan: Blinkit Category Discovery Engine
+# Implementation Plan: Blinkit AI-Powered Discovery Engine
 
 This plan implements [`problemstatement.md`](./problemstatement.md) directly.
 Each section below states which line(s) of the problem statement it satisfies.
