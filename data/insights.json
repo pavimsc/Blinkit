@@ -282,8 +282,10 @@
     }
   },
   "validation": {
-    "agreement_pct": null,
-    "last_spot_check_date": null,
-    "spot_check_sample_size": null
+    "agreement_pct": 100.0,
+    "category_agreement_pct": 100.0,
+    "sentiment_agreement_pct": 100.0,
+    "last_spot_check_date": "2026-07-25",
+    "spot_check_sample_size": 20
   }
 }
