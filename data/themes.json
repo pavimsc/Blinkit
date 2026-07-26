@@ -29091,5 +29091,147 @@
     "discovery_channel": "none_mentioned",
     "segment_signal": "unclear",
     "sentiment": "positive"
+  },
+  "1d84683f-0287-43c4-b8b4-6c5decc4efbf": {
+    "reviewId": "1d84683f-0287-43c4-b8b4-6c5decc4efbf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f2deee37-d5fa-47e2-9cdf-b0368a1fca2d": {
+    "reviewId": "f2deee37-d5fa-47e2-9cdf-b0368a1fca2d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c4194a8f-0c23-4814-9104-fdc93450b87c": {
+    "reviewId": "c4194a8f-0c23-4814-9104-fdc93450b87c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ce4b14e2-6f29-46fa-9417-6f5baa629749": {
+    "reviewId": "ce4b14e2-6f29-46fa-9417-6f5baa629749",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8df0f959-8659-450d-b39e-0926317412af": {
+    "reviewId": "8df0f959-8659-450d-b39e-0926317412af",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e4fd4409-4b77-4c69-99aa-a937a5ffab18": {
+    "reviewId": "e4fd4409-4b77-4c69-99aa-a937a5ffab18",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b95abbaa-0fb5-449e-8bfc-f092496912eb": {
+    "reviewId": "b95abbaa-0fb5-449e-8bfc-f092496912eb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "43c414c1-b1cd-4589-ac2d-2414ae89e1e4": {
+    "reviewId": "43c414c1-b1cd-4589-ac2d-2414ae89e1e4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "de03e709-a9a8-4e55-98f6-d1d6ed19fd88": {
+    "reviewId": "de03e709-a9a8-4e55-98f6-d1d6ed19fd88",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c0348e39-0aa4-46f0-83ed-44aff7daea7f": {
+    "reviewId": "c0348e39-0aa4-46f0-83ed-44aff7daea7f",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "No Return Policy",
+    "unmet_need": "No exchange",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "b46f5e02-d97f-49c7-ab87-bb294514ab21": {
+    "reviewId": "b46f5e02-d97f-49c7-ab87-bb294514ab21",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "jantar mantar location not available",
+    "unmet_need": "service ended",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "21c3bb88-c9be-47fd-9765-1c60431cdee3": {
+    "reviewId": "21c3bb88-c9be-47fd-9765-1c60431cdee3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
   }
 }
