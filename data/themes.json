@@ -29233,5 +29233,16 @@
     "discovery_channel": "none_mentioned",
     "segment_signal": "unclear",
     "sentiment": "neutral"
+  },
+  "d4f1718e-5900-42c2-82d8-d37efb326c14": {
+    "reviewId": "d4f1718e-5900-42c2-82d8-d37efb326c14",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
   }
 }
