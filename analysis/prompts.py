@@ -48,7 +48,22 @@ def build_extraction_prompt(batch: list[dict]) -> list[dict]:
         "Do NOT tag any category just because the review expresses general "
         "satisfaction or frustration with the app/delivery/service as a "
         "whole — vague praise like \"great app, has everything I need\" gets "
-        "an EMPTY category_signals list. For each category you do include, "
+        "an EMPTY category_signals list. A review about delivery speed, "
+        "customer support, refunds, the app UI, or pricing IN GENERAL "
+        "(not tied to a specific product) also gets an EMPTY list — those "
+        "are not category signals. Include AT MOST 2 categories per review; "
+        "if you find yourself wanting to tag 3+, the review is almost "
+        "certainly generic and should get an EMPTY list instead.\n\n"
+        "Examples:\n"
+        '  review: "worst customer service, no one responds to complaints" '
+        "-> category_signals: [] (generic service complaint, no product named)\n"
+        '  review: "the milk was spoiled and diapers arrived damaged" -> '
+        'category_signals: [{"category": "Dairy & Bakery", "relationship": '
+        '"unmet_need_or_friction"}, {"category": "Baby Care", "relationship": '
+        '"unmet_need_or_friction"}]\n'
+        '  review: "great app, has everything I need, fast delivery" -> '
+        "category_signals: [] (vague praise, no specific product/category)\n\n"
+        "For each category you do include, "
         "set relationship to exactly one of:\n"
         '  "habitual_purchase" — review shows they already buy this regularly\n'
         '  "unmet_need_or_friction" — review complains about, or wishes for '
