@@ -108,33 +108,55 @@ def rank_top_categories(aggregates: dict, themes: dict, raw_reviews: dict) -> li
     def content_for(review_id: str) -> str:
         return (raw_reviews.get(review_id, {}).get("content") or "").strip()
 
+    def submitted_at(review_id: str) -> str:
+        return raw_reviews.get(review_id, {}).get("at") or ""
+
     ranked = sorted(
         aggregates["category_summary"].items(),
         key=lambda kv: (kv[1]["explore_worthy_count"], kv[1]["total_count"], kv[0]),
         reverse=True,
     )[:TOP_N_CATEGORIES]
 
+    # Tracks which reviews have already been used as a quote in an earlier
+    # (higher-ranked) category, so the same quote doesn't repeat across
+    # multiple category cards on the dashboard.
+    used_quote_ids: set[str] = set()
+
     result = []
     for category, counts in ranked:
         # Prefer quotes that actually show unmet need / friction / curiosity;
         # only fall back to habitual-purchase quotes if nothing else exists.
-        priority_ids = [
-            rid
-            for rid, t in themes.items()
-            if any(
-                s.get("category") == category and s.get("relationship") in EXPLORE_WORTHY_RELATIONSHIPS
-                for s in t.get("category_signals", [])
-            )
-            and content_for(rid)
-        ]
-        fallback_ids = [
-            rid
-            for rid, t in themes.items()
-            if any(s.get("category") == category and s.get("relationship") == "habitual_purchase" for s in t.get("category_signals", []))
-            and content_for(rid)
-            and rid not in priority_ids
-        ]
-        quotes = [content_for(rid) for rid in (priority_ids + fallback_ids)[:QUOTES_PER_CATEGORY]]
+        # Within each group, most recent reviews come first so the quotes
+        # reflect today's feedback rather than the oldest matches found.
+        priority_ids = sorted(
+            (
+                rid
+                for rid, t in themes.items()
+                if rid not in used_quote_ids
+                and content_for(rid)
+                and any(
+                    s.get("category") == category and s.get("relationship") in EXPLORE_WORTHY_RELATIONSHIPS
+                    for s in t.get("category_signals", [])
+                )
+            ),
+            key=submitted_at,
+            reverse=True,
+        )
+        fallback_ids = sorted(
+            (
+                rid
+                for rid, t in themes.items()
+                if rid not in used_quote_ids
+                and rid not in priority_ids
+                and content_for(rid)
+                and any(s.get("category") == category and s.get("relationship") == "habitual_purchase" for s in t.get("category_signals", []))
+            ),
+            key=submitted_at,
+            reverse=True,
+        )
+        selected_ids = (priority_ids + fallback_ids)[:QUOTES_PER_CATEGORY]
+        used_quote_ids.update(selected_ids)
+        quotes = [content_for(rid) for rid in selected_ids]
 
         result.append({
             "category": category,
