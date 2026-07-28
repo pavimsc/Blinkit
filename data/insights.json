@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:59:15.775398+00:00",
+  "generated_at": "2026-07-28T12:00:01.203375+00:00",
   "sample_size": 2438,
   "low_confidence": false,
   "aggregates": {
@@ -145,7 +145,7 @@
         "the app is good but it doesn't deliver to my locality but it delivers to the areas which is 4 km apart so I wanted this app in ranipatra my locality because it has a variety of products from snacks to daily essentials so I request you to please deliver in my area.",
         "handling charges very high hai. aur kam quantity wala saman kam milta hai isme. 200 se kam me high delivery charge leta hai. isko thik karna chaiye"
       ],
-      "rationale": "Users find the app very handy and useful at difficult times, with plenty of options for immediate daily and instant needs, and a variety of products from snacks to daily essentials."
+      "rationale": "Users find the app very handy and useful at difficult times, with plenty of options that satisfy all immediate daily and instant needs."
     },
     {
       "category": "Dairy & Bakery",
@@ -156,7 +156,7 @@
         "very bad experience today eggs tray is broken n they refused to exchange that",
         "I am not getting the product of 1 or 2 kgs Govardhan cheese mozzarella, kindly let me know."
       ],
-      "rationale": "The category experiences issues with product quality, such as poor milk quality and broken eggs, which can lead to a negative experience for users."
+      "rationale": "The category faces issues with product quality, as users have reported receiving poor quality or expired products, such as milk and eggs."
     },
     {
       "category": "Home & Kitchen Needs",
@@ -167,7 +167,7 @@
         "very good blanket expensive items 🤌🤌",
         "two suggestions to blinkit 1. please maintain hygeine and cleanliness with packaging and delivering 2. give more coupons for lesser value cart also so the delivery charges can be covered. delivery charges are high compared to other platforms. also the range of products offered by blinkit is so good."
       ],
-      "rationale": "Users appreciate the range of products offered and the helpful customer support team, but may encounter issues such as high delivery charges and the need for more coupons."
+      "rationale": "Users appreciate the wide range of products offered, but have suggestions for improvement, including maintaining hygiene and cleanliness with packaging and delivering, as well as providing more coupons for lesser value carts."
     },
     {
       "category": "Electronics Accessories",
@@ -178,7 +178,7 @@
         "The customer service is very poor. I ordered an wired earphone and it showed that it will magnetically snap. The issue was there and the functions were not as specific to the details mentioned still customer care denied change and asked to contact brand. i recommend to use zepto and other quick commerce and not blinkit.",
         "Blinkit has had a great fall in terms of customer support. I have been misled by the images to order sizes/weights far above what I intended to, and there is no customer redressal system to even hear the customer out. I am hearing similar experiences from my friends as well. From a helpful brand it has slipped to a bullying one. Very disappointing!"
       ],
-      "rationale": "The category is plagued by poor customer support, issues with product quality, and difficulties with the return and refund process, leading to a frustrating experience for users."
+      "rationale": "The category is plagued by poor customer support, with users facing difficulties in returning or exchanging products, and being misled by product images that do not match the actual product received."
     },
     {
       "category": "Personal Care",
@@ -189,7 +189,7 @@
         "your services are good no doubt but your delivery boys are either uneducated or untrained.Thay do too much calls in one order.My location and address everything is exact but they call on every point. please correct it",
         "Blinkit has had a great fall in terms of customer support. I have been misled by the images to order sizes/weights far above what I intended to, and there is no customer redressal system to even hear the customer out. I am hearing similar experiences from my friends as well. From a helpful brand it has slipped to a bullying one. Very disappointing!"
       ],
-      "rationale": "Users value the range of products offered, but may encounter issues such as high delivery charges, poor customer service from delivery boys, and the need for more coupons."
+      "rationale": "Users have expressed concerns about the high delivery charges and the need for more coupons, as well as issues with customer support, including uneducated or untrained delivery personnel."
     },
     {
       "category": "Fruits & Vegetables",
@@ -200,7 +200,7 @@
         "delivery boys were most of the time rude. deliberately delaying the ordered items. sometimes fresh items were not fresh at all.",
         "sometimes vegetables are not fresh."
       ],
-      "rationale": "Users may experience issues with product quality, such as non-fresh items, and poor treatment by delivery personnel, which can lead to a negative experience."
+      "rationale": "Users have reported receiving poor quality or unripe products, and have expressed frustration with the delivery experience, including rude delivery personnel."
     },
     {
       "category": "Snacks & Beverages",
@@ -211,7 +211,7 @@
         "the app is good but it doesn't deliver to my locality but it delivers to the areas which is 4 km apart so I wanted this app in ranipatra my locality because it has a variety of products from snacks to daily essentials so I request you to please deliver in my area.",
         "very bad experience. not good quality even we got half bottle of soda seal was broken also date expired. I recommended avoid order it's better to go market."
       ],
-      "rationale": "The category offers a variety of products, but users may encounter issues such as poor product quality, high prices, and the desire for more coupons to cover delivery charges."
+      "rationale": "Users have reported issues with product quality, including receiving expired or damaged products, and have expressed frustration with the delivery experience, including high delivery charges."
     },
     {
       "category": "Baby Care",
@@ -222,7 +222,7 @@
         "first i ordered baby food 8+ but received 18+ month and second was it's jaggery i ordered some fungal inside the pack so plz improve your product ani return option will be provided or exchange options are provide",
         "service quality keeps going down. Dont order more than 2 or 3 items at a time from this app because you can be 100% sure they wont deliver the rest. For the devs: why do you need my order id when this is an issue with all your orders? You break a small order into multiple pieces without informing the customer with different people carrying different stuff some of which dont even reach. You dont have a feasible upi payment option either so I have to prepay."
       ],
-      "rationale": "Users may experience issues with product quality, incorrect orders, and poor customer support, which can be particularly frustrating for this category."
+      "rationale": "Users have reported issues with product quality, including receiving incorrect or damaged products, and have expressed frustration with the customer support experience, including difficulties in returning or exchanging products."
     },
     {
       "category": "Health & Wellness",
@@ -233,7 +233,7 @@
         "Blinkit has had a great fall in terms of customer support. I have been misled by the images to order sizes/weights far above what I intended to, and there is no customer redressal system to even hear the customer out. I am hearing similar experiences from my friends as well. From a helpful brand it has slipped to a bullying one. Very disappointing!",
         "service quality keeps going down. Dont order more than 2 or 3 items at a time from this app because you can be 100% sure they wont deliver the rest. For the devs: why do you need my order id when this is an issue with all your orders? You break a small order into multiple pieces without informing the customer with different people carrying different stuff some of which dont even reach. You dont have a feasible upi payment option either so I have to prepay."
       ],
-      "rationale": "While some users appreciate the service, others experience issues such as poor customer support, difficulties with the return process, and the desire for more options and better product quality."
+      "rationale": "Users have expressed appreciation for the app's services, but have also reported issues with customer support, including being misled by product images and facing difficulties in returning or exchanging products."
     },
     {
       "category": "Fashion & Apparel Accessories",
@@ -244,40 +244,40 @@
         "the worst delivery app, they dont deliver in time also the delivery partners don't even lift the call, please don't install this app it's waste of time use zepto or flipkart minutes or Swiggy Instamart.",
         "I ordered a Citizens 2-fold umbrella based on the product images but received a completely different local umbrella. The delivery partner left without allowing me to check it. Customer support made the return process frustrating, asked me to travel back to the delivery location, couldn't accept gallery images, and then closed my complaint without resolving it. Very disappointing service and misleading product listing. very poor experience we will never order from this app..."
       ],
-      "rationale": "The category is marked by poor customer support, issues with product quality, and difficulties with the return process, leading to a disappointing experience for users."
+      "rationale": "Users have reported issues with product quality, including receiving incorrect or poor quality products, and have expressed frustration with the customer support experience, including difficulties in returning or exchanging products."
     }
   ],
   "research_questions": {
     "q1_repeat_categories": {
-      "answer": "Users repeatedly buy from the same categories because they find the app convenient for quick grocery and daily essentials delivery, and they can find most items they need.",
+      "answer": "Users repeatedly buy from the same categories because they find the app convenient for quick grocery and daily essentials delivery, and appreciate the wide range of products offered.",
       "evidence_count": 179
     },
     "q2_exploration_blockers": {
-      "answer": "Users are prevented from exploring new categories due to issues such as poor customer support, high prices, and difficulties with the return and refund process.",
+      "answer": "Users are prevented from exploring new categories due to issues such as poor customer support, high delivery charges, and difficulties in returning or exchanging products.",
       "evidence_count": 411
     },
     "q3_discovery_channels": {
-      "answer": "Users discover products through search, as they may not find the products they need in physical stores.",
+      "answer": "Users discover products through search, as they are able to find products that are not available in physical stores.",
       "evidence_count": 1
     },
     "q4_habit_role": {
-      "answer": "Habits play a significant role in shopping behavior, as users often purchase the same items repeatedly and appreciate the convenience of quick delivery.",
+      "answer": "Habits play a significant role in shopping behavior, as users tend to regularly use the app for quick grocery and daily essentials delivery, and appreciate the convenience and speed of the service.",
       "evidence_count": 179
     },
     "q5_info_needed": {
-      "answer": "Users need information about product quality, prices, and delivery options before trying a new category, as well as more coupons and offers to make their purchases more affordable.",
+      "answer": "Users need information about product quality, pricing, and delivery options before trying a new category, as they want to ensure that they are getting a good product at a reasonable price.",
       "evidence_count": 200
     },
     "q6_recurring_frustrations": {
-      "answer": "Recurring frustrations include poor customer support, high prices, difficulties with the return and refund process, and issues with product quality.",
+      "answer": "Recurring frustrations include issues with customer support, high delivery charges, and difficulties in returning or exchanging products, which can lead to a negative experience and discourage users from exploring new categories.",
       "evidence_count": 411
     },
     "q7_experimenting_segments": {
-      "answer": "The 'explorer' segment is more likely to experiment with new categories and products, as they are curious and willing to try new things.",
+      "answer": "The 'explorer' segment is more likely to experiment with new categories, as they are curious and willing to try new products and services.",
       "evidence_count": 19
     },
     "q8_unmet_needs": {
-      "answer": "Unmet needs include better customer support, lower prices, more coupons and offers, and improved product quality, as well as the desire for more options and better packaging.",
+      "answer": "Unmet needs include better customer support, lower delivery charges, and more coupons, as well as improved product quality and a wider range of products.",
       "evidence_count": 200
     }
   },
