@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T12:02:00.884383+00:00",
-  "sample_size": 2438,
+  "generated_at": "2026-07-29T05:30:49.284269+00:00",
+  "sample_size": 2918,
   "low_confidence": false,
   "aggregates": {
-    "sample_size": 2438,
+    "sample_size": 2918,
     "category_summary": {
       "Groceries & Staples": {
-        "habitual_purchase": 127,
-        "unmet_need_or_friction": 193,
+        "habitual_purchase": 161,
+        "unmet_need_or_friction": 239,
         "curious_exploring": 19,
-        "explore_worthy_count": 212,
-        "total_count": 339
+        "explore_worthy_count": 258,
+        "total_count": 419
       },
       "Fruits & Vegetables": {
         "habitual_purchase": 6,
-        "unmet_need_or_friction": 10,
-        "curious_exploring": 3,
-        "explore_worthy_count": 13,
-        "total_count": 19
+        "unmet_need_or_friction": 14,
+        "curious_exploring": 4,
+        "explore_worthy_count": 18,
+        "total_count": 24
       },
       "Dairy & Bakery": {
         "habitual_purchase": 6,
-        "unmet_need_or_friction": 18,
+        "unmet_need_or_friction": 19,
         "curious_exploring": 2,
-        "explore_worthy_count": 20,
-        "total_count": 26
+        "explore_worthy_count": 21,
+        "total_count": 27
       },
       "Snacks & Beverages": {
         "habitual_purchase": 9,
         "unmet_need_or_friction": 10,
-        "curious_exploring": 2,
-        "explore_worthy_count": 12,
-        "total_count": 21
+        "curious_exploring": 3,
+        "explore_worthy_count": 13,
+        "total_count": 22
       },
       "Personal Care": {
         "habitual_purchase": 5,
@@ -48,32 +48,32 @@
         "total_count": 6
       },
       "Health & Wellness": {
-        "habitual_purchase": 10,
-        "unmet_need_or_friction": 3,
+        "habitual_purchase": 15,
+        "unmet_need_or_friction": 4,
         "curious_exploring": 2,
-        "explore_worthy_count": 5,
-        "total_count": 15
+        "explore_worthy_count": 6,
+        "total_count": 21
       },
       "Baby Care": {
         "habitual_purchase": 3,
-        "unmet_need_or_friction": 6,
+        "unmet_need_or_friction": 7,
         "curious_exploring": 0,
-        "explore_worthy_count": 6,
-        "total_count": 9
+        "explore_worthy_count": 7,
+        "total_count": 10
       },
       "Pet Supplies": {
         "habitual_purchase": 3,
-        "unmet_need_or_friction": 4,
+        "unmet_need_or_friction": 5,
         "curious_exploring": 0,
-        "explore_worthy_count": 4,
-        "total_count": 7
+        "explore_worthy_count": 5,
+        "total_count": 8
       },
       "Home & Kitchen Needs": {
         "habitual_purchase": 6,
-        "unmet_need_or_friction": 12,
+        "unmet_need_or_friction": 13,
         "curious_exploring": 3,
-        "explore_worthy_count": 15,
-        "total_count": 21
+        "explore_worthy_count": 16,
+        "total_count": 22
       },
       "Cleaning & Household Supplies": {
         "habitual_purchase": 2,
@@ -83,202 +83,203 @@
         "total_count": 5
       },
       "Electronics Accessories": {
-        "habitual_purchase": 4,
-        "unmet_need_or_friction": 15,
+        "habitual_purchase": 8,
+        "unmet_need_or_friction": 17,
         "curious_exploring": 0,
-        "explore_worthy_count": 15,
-        "total_count": 19
+        "explore_worthy_count": 17,
+        "total_count": 25
       },
       "Stationery & Office": {
-        "habitual_purchase": 3,
-        "unmet_need_or_friction": 3,
-        "curious_exploring": 0,
-        "explore_worthy_count": 3,
-        "total_count": 6
-      },
-      "Fashion & Apparel Accessories": {
         "habitual_purchase": 4,
-        "unmet_need_or_friction": 4,
-        "curious_exploring": 1,
+        "unmet_need_or_friction": 5,
+        "curious_exploring": 0,
         "explore_worthy_count": 5,
         "total_count": 9
+      },
+      "Fashion & Apparel Accessories": {
+        "habitual_purchase": 5,
+        "unmet_need_or_friction": 5,
+        "curious_exploring": 2,
+        "explore_worthy_count": 7,
+        "total_count": 12
       }
     },
     "segment_counts": {
-      "unclear": 2092,
-      "price-sensitive": 143,
-      "convenience-seeker": 77,
-      "habitual": 107,
-      "explorer": 19
+      "unclear": 2472,
+      "price-sensitive": 187,
+      "convenience-seeker": 98,
+      "habitual": 138,
+      "explorer": 23
     },
     "sentiment_counts": {
-      "positive": 1862,
-      "negative": 473,
-      "neutral": 103
+      "positive": 2205,
+      "negative": 567,
+      "neutral": 146
     },
     "discovery_channel_counts": {
-      "none_mentioned": 2437,
-      "search": 1
+      "none_mentioned": 2916,
+      "search": 1,
+      "word_of_mouth": 1
     },
-    "habit_signal_true_count": 179,
-    "habit_signal_false_count": 2259,
-    "friction_mentioned_count": 411,
-    "unmet_need_mentioned_count": 200,
+    "habit_signal_true_count": 223,
+    "habit_signal_false_count": 2695,
+    "friction_mentioned_count": 477,
+    "unmet_need_mentioned_count": 233,
     "research_question_evidence_counts": {
-      "q1_repeat_categories": 179,
-      "q2_exploration_blockers": 411,
-      "q3_discovery_channels": 1,
-      "q4_habit_role": 179,
-      "q5_info_needed": 200,
-      "q6_recurring_frustrations": 411,
-      "q7_experimenting_segments": 19,
-      "q8_unmet_needs": 200
+      "q1_repeat_categories": 223,
+      "q2_exploration_blockers": 477,
+      "q3_discovery_channels": 2,
+      "q4_habit_role": 223,
+      "q5_info_needed": 233,
+      "q6_recurring_frustrations": 477,
+      "q7_experimenting_segments": 23,
+      "q8_unmet_needs": 233
     }
   },
   "top_10_categories": [
     {
       "category": "Groceries & Staples",
-      "evidence_count": 212,
-      "total_mentions": 339,
+      "evidence_count": 258,
+      "total_mentions": 419,
       "quotes": [
-        "दलाल दलाल दलाल दलाल, क्या हुआ? कहाँ गए? क्यों गायब हो रहे हो? jantar mantar location not available blinkit tum bhi resign do दलाल दलाल दलाल दलाल, ये क्या चल रहा है? दलाल दलाल दलाल दलाल, स्थान बंद, सेवा खत्म, , सब कुछ बेकार। दलाल दलाल दलाल दलाल, बताओ क्या हो रहा है? दलाल दलाल दलाल दलाल –",
-        "bakwas app hai, cancel order button nahi hai, or delevery boy ne 75 rupees scam kar liye mujhe se",
-        "Initially there used to be a proper customer service but now the app has the automated AI agent which is utterly unhelpful and frustrating when you are trying to complain about an order. Since it can't distinguish between an order and the add on (allowed in the app if you forgot something), it treats the add on as the latest order and can't help with spoilt items in the main order."
+        "One thing I dont like about delivery is that the delivery persons do not wear helmet. Blinkit should make it mandatory for delivery persons to wear helmet while delivery.",
+        "i ordered chicken on blikit they are fully expired all expired items sending blinkit dont use The App costomor support Closing chat without resolving my solution my child food poisoning after etan chicken now at hospital dont oder at blinkit place High charges also place go market and buy",
+        "fooling people by posting wrong quantities of product. customer support is also very poor"
       ],
-      "rationale": "Users experience issues with order cancellations, delivery, and customer service, as seen in quotes like 'bakwas app hai, cancel order button nahi hai, or delevery boy ne 75 rupees scam kar liye mujhe se' and 'Initially there used to be a proper customer service but now the app has the automated AI agent which is utterly unhelpful and frustrating when you are trying to complain about an order.'"
+      "rationale": "Users experience issues with delivery, such as expired items and poor customer support, which affects their trust in the platform for grocery shopping."
     },
     {
       "category": "Dairy & Bakery",
-      "evidence_count": 20,
-      "total_mentions": 26,
+      "evidence_count": 21,
+      "total_mentions": 27,
       "quotes": [
+        "I had ordered eggs worth 311 rupees, I order from blinkit most of the time but today when I had ordered 30 tray eggs the eggs were visiblygone day with bugs and rotten eggs, this is not the first time too as I had once the same this when I order. I had even reached the coaster care AI and it gave me 311 rupees worth of bloody coupons, not even refunding me properly. poor experienceand quality.",
         "Worst app. The delivery boy also had no manners, and the delivery took more than 15 minutes. Very disappointing service.",
-        "I had ordered amul butterscotch icecream, but the butterscotch nuts and crunches have became soft. Storage people have not maintained refrigeration properly. Please try not to order ice creams from blinkit",
-        "Except milk, they never place any tetra packed items like their 1ltr Mango Lassis in fridges. They always deliver those warm."
+        "I had ordered amul butterscotch icecream, but the butterscotch nuts and crunches have became soft. Storage people have not maintained refrigeration properly. Please try not to order ice creams from blinkit"
       ],
-      "rationale": "Users are dissatisfied with the quality of products, such as ice cream and milk, and the handling of these items during delivery, as mentioned in quotes like 'I had ordered amul butterscotch icecream, but the butterscotch nuts and crunches have became soft' and 'Except milk, they never place any tetra packed items like their 1ltr Mango Lassis in fridges.'"
+      "rationale": "The quality of dairy and bakery products is a concern, with users reporting rotten eggs and poor storage conditions, which impacts their satisfaction with these categories."
     },
     {
-      "category": "Home & Kitchen Needs",
-      "evidence_count": 15,
-      "total_mentions": 21,
+      "category": "Fruits & Vegetables",
+      "evidence_count": 18,
+      "total_mentions": 24,
       "quotes": [
-        "Was one of the most genuine life saving apps in my area, till the local delivery partners started being problematic for the company, despite their efforts and steps, the reputation has declined in my area much, zepto and minutes are performing relatively better, also the reluctant bot in the chat support section has caused a great harm to the company as well. And most of the time their outlet isn't operational in my area, they have hugely deteriorated, it's sad",
-        "First order. So pleasantly shocked by such a fast delivery. The price of items was very competitive and attractive compared to amazon. So happy with this first experience although delivery bag was torn badly. But items arrived in less than 15 mins of ordering. Truly an eye blinking experience. Thank you.",
-        "worst experience ever I had, being it's my 1st order.... responsibility and accountability is not There...i recommend do not use"
+        "Fruits and vegetables items are useless and poor quality, price are very high as market price.",
+        "కొంచెం మంచి కూరగాయలు పంపించండి ఫ్రూట్స్ గాని ఇలా కూరగాయలు గాని కొంచెం క్వాలిటీ ఉండట్లేదు నెక్స్ట్ వచ్చేసి ఒకదాంట్లో రేటు పెంచుతున్నారు తగ్గిస్తున్నారు ఎవరైనా బ్యాగ్ కి మినిమం ఫైవ్ రుపీస్ తీసుకుంటే బెటర్ మిగతా వ్యాపులు అంతే తీసుకుంటున్నాను",
+        "Always on time n the most trusted. Wish to see discounts on special days or weekend on fruits n desserts."
       ],
-      "rationale": "The reputation of Blinkit has declined in some areas due to issues with local delivery partners and the reluctance of the chat support section, as stated in quotes like 'Was one of the most genuine life saving apps in my area, till the local delivery partners started being problematic for the company' and 'the reluctant bot in the chat support section has caused a great harm to the company.'"
+      "rationale": "Users are dissatisfied with the quality of fruits and vegetables, citing high prices and poor quality, which deters them from purchasing these items through the platform."
     },
     {
       "category": "Electronics Accessories",
-      "evidence_count": 15,
-      "total_mentions": 19,
+      "evidence_count": 17,
+      "total_mentions": 25,
       "quotes": [
-        "I have been using Blinkit for a long period now, today I am really happy to share my experience, I bought a watch from blinkit, but it was not working as I unboxed it, so I initiated a refund which was quick and in few minutes work, the delivery partner came soon and picked it and my refund was initiated, then I bought another brand but delivery guy got stuck because of his vehicle failure, instantly the blinkit support team (Mr Abhishek) helped and delivery was done so quick. really thanks 🙏",
-        "i ordered a phillips hair dryer, the item description of which did not show whether the plug was 6 amp or 16 amp. Turned out upon delivery that it had 16 amp but i needed a dryer with a 6 amp plug. i immediately contact support for return within maybe 5 mins. well the customer care lady, Shazia came, chatted for 10 mins then asked if she could call. on receiving the call i was told that this item wasnt eligible for delivery. wasted 15 mins right in the morning, wasted Rs 2899.",
-        "I have parched canon pixma mg2570s printer it's not working and mixer grinder this apps parched products are low quality item they will deliver to doors it's not good and some time in order misplace the items..."
+        "sending faulty goods with fake promises to be replaced in 7 days after the complaint they need to video in the chat box or their system doesn't work for uploading video very bad experience with blinkit.",
+        "I received my earbuds order from Chembur via Blinkit. Both earbuds appear to be the same side, so they do not fit properly in the charging case. Also, the earbuds were loose in a plastic packet instead of being placed correctly inside the charging caseorder the ear buds both are same ears and fitting in shell the buds has came in plastic not in shell it is from chembur blinkit",
+        "I have been using Blinkit for a long period now, today I am really happy to share my experience, I bought a watch from blinkit, but it was not working as I unboxed it, so I initiated a refund which was quick and in few minutes work, the delivery partner came soon and picked it and my refund was initiated, then I bought another brand but delivery guy got stuck because of his vehicle failure, instantly the blinkit support team (Mr Abhishek) helped and delivery was done so quick. really thanks 🙏"
       ],
-      "rationale": "Users have mixed experiences with electronics accessories, including issues with product quality, return processes, and customer support, as seen in quotes like 'I bought a watch from blinkit, but it was not working as I unboxed it' and 'i ordered a phillips hair dryer, the item description of which did not show whether the plug was 6 amp or 16 amp.'"
+      "rationale": "Users encounter problems with faulty goods, difficulties in the return process, and poor customer support, which erodes trust in the platform for electronics accessories."
+    },
+    {
+      "category": "Home & Kitchen Needs",
+      "evidence_count": 16,
+      "total_mentions": 22,
+      "quotes": [
+        "if your order is delivered damaged or torn then this app does not provide any help and there product is covered with dirt , I think there inventory is not properly managed. Bad experience with blinkit .",
+        "Was one of the most genuine life saving apps in my area, till the local delivery partners started being problematic for the company, despite their efforts and steps, the reputation has declined in my area much, zepto and minutes are performing relatively better, also the reluctant bot in the chat support section has caused a great harm to the company as well. And most of the time their outlet isn't operational in my area, they have hugely deteriorated, it's sad",
+        "First order. So pleasantly shocked by such a fast delivery. The price of items was very competitive and attractive compared to amazon. So happy with this first experience although delivery bag was torn badly. But items arrived in less than 15 mins of ordering. Truly an eye blinking experience. Thank you."
+      ],
+      "rationale": "The platform's inventory management and delivery process for home and kitchen needs are criticized, with users experiencing damaged or torn items and unhelpful customer support."
     },
     {
       "category": "Personal Care",
       "evidence_count": 14,
       "total_mentions": 19,
       "quotes": [
+        "Initially there used to be a proper customer service but now the app has the automated AI agent which is utterly unhelpful and frustrating when you are trying to complain about an order. Since it can't distinguish between an order and the add on (allowed in the app if you forgot something), it treats the add on as the latest order and can't help with spoilt items in the main order.",
         "blinkit charging extra mony on everything i will never buy anything from now from blinkit. recently i purchase a lip balm from here so on others app this lip balm price is 198 or 188. but here 222 rs. this is so bad and now they are started adding 12 rs. handeling charge also . 10 minutes delivery is okay but they charged tooo much for everything. instead of this app you can use flipcart minutes or any other app.",
-        "I ordered the Pee Safe panty liner and the expiry date was misplaced. When it comes to personal hygiene products like this, things need to be proper for the peace of mind. I do not feel comfortable using a defected product so I politely demanded a refund and the agent \"Poulami\" didn't talk further and immediately closed the chat abruptly while my product issue was still unresolved. They are shoving defected products down our throats. I'm not gonna use blinkit ever again. Open your eyes everyone.",
-        "service quality keeps going down. Dont order more than 2 or 3 items at a time from this app because you can be 100% sure they wont deliver the rest. For the devs: why do you need my order id when this is an issue with all your orders? You break a small order into multiple pieces without informing the customer with different people carrying different stuff some of which dont even reach. You dont have a feasible upi payment option either so I have to prepay."
+        "I ordered the Pee Safe panty liner and the expiry date was misplaced. When it comes to personal hygiene products like this, things need to be proper for the peace of mind. I do not feel comfortable using a defected product so I politely demanded a refund and the agent \"Poulami\" didn't talk further and immediately closed the chat abruptly while my product issue was still unresolved. They are shoving defected products down our throats. I'm not gonna use blinkit ever again. Open your eyes everyone."
       ],
-      "rationale": "Users are unhappy with the pricing and the quality of personal care products, and they also face issues with customer support, as mentioned in quotes like 'blinkit charging extra mony on everything' and 'I ordered the Pee Safe panty liner and the expiry date was misplaced.'"
-    },
-    {
-      "category": "Fruits & Vegetables",
-      "evidence_count": 13,
-      "total_mentions": 19,
-      "quotes": [
-        "Extremely disappointed with this order. The Organic Ladyfinger (500 g) came in two 250 g packs, but one entire pack was completely spoiled and had to be thrown away. The Raw Mango (500 g) was the small, round variety with a huge seed and very little pulp, yet the description never mentioned this, making it misleading and poor value for money. The Chopped Spinach contained mostly thick stems instead of spinach leaves, making it feel like the weight was increased by adding sticks than actual.",
-        "good",
-        "Quick service . Just see the veg n fruits are not over ripe . Thanx 🌻"
-      ],
-      "rationale": "Users are dissatisfied with the quality of fruits and vegetables, including issues with spoilage and misleading product descriptions, as stated in quotes like 'The Organic Ladyfinger came in two 250 g packs, but one entire pack was completely spoiled' and 'The Chopped Spinach contained mostly thick stems instead of spinach leaves.'"
+      "rationale": "Users face issues with personal care products, including expiry date issues, high prices, and unhelpful customer support, which affects their overall satisfaction with these categories."
     },
     {
       "category": "Snacks & Beverages",
-      "evidence_count": 12,
-      "total_mentions": 21,
+      "evidence_count": 13,
+      "total_mentions": 22,
       "quotes": [
         "blinkit service is good but service provider aren't sensible, all times we found that colddrink are not cold, get colddrink with 50• temperature All tims So please carefully for again order If we found again this type issue then I will close blinkit service permanently thanks",
         "always delivering COOL drinks without cooling, I'm very upset about that",
         "🙌🙌॥हर हर महादेव॥🙌🙌 BLINKIT WALE ONLINE PAYMENT MEI DHOKHADHADI KARTE HAI, MERE SATH HAAL HI MAI HUA KI, MAINE 950 RUPEY KI CHOCOLATE MANGWAI TO WO ADDRESS PAR NI PAHUNCHI USKE BAAD INHONE CHAT PAR MUJHSE BAAT BHI KI PAR 07/07/2026 SE AB 21/07/2026 TAK INHONE MERI ONLINE PAYMENT NI LOTAYI, EK BAAR PEHLE BHI DELIVERY MAN NE ADDRESS PAR NA PAHUCHNE PAR CHIK CHIK BAAZI KI OR MERA BAHUT MOOD OFF KIYA, JAB BHI MAINE ONLINE PAYMENT HI KI THI, PAR INHONE MERA PHONE INCORPORATE KEHKAR 50 BAAR KAATA"
       ],
-      "rationale": "Users experience problems with the temperature of cold drinks, and they also face issues with customer support and delivery, as mentioned in quotes like 'always delivering COOL drinks without cooling' and 'BLINKIT WALE ONLINE PAYMENT MEI DHOKHADHADI KARTE HAI.'"
+      "rationale": "The quality and temperature control of snacks and beverages are concerns, with users reporting receiving warm drinks and poor-quality items, which impacts their trust in the platform."
+    },
+    {
+      "category": "Fashion & Apparel Accessories",
+      "evidence_count": 7,
+      "total_mentions": 12,
+      "quotes": [
+        "Blinkit proves it all!!! My busy work schedule and my accommodation, too away from nearby shops, which don't have groceries of my preference, Blinkit provides what I wish, within the specified time. Thank you Blinkit Team Mehsana..",
+        "It's good but I didn't like that cash on delivery isn't available for first orders below 99",
+        "service quality keeps going down. Dont order more than 2 or 3 items at a time from this app because you can be 100% sure they wont deliver the rest. For the devs: why do you need my order id when this is an issue with all your orders? You break a small order into multiple pieces without informing the customer with different people carrying different stuff some of which dont even reach. You dont have a feasible upi payment option either so I have to prepay."
+      ],
+      "rationale": "Users appreciate the convenience of the platform for fashion and apparel accessories but face issues such as split orders and poor customer support, which needs improvement."
     },
     {
       "category": "Baby Care",
-      "evidence_count": 6,
-      "total_mentions": 9,
+      "evidence_count": 7,
+      "total_mentions": 10,
       "quotes": [
         "blanket se koi bhi order na khariden blancate wale bahut Dhokha Dhadi kar rahe hain maine apne bacche ke liye Nariyal Pani mangaya tha Botal wala usmein kide nikale Hain",
         "taking extra charges on baby food items it's ridiculous",
         "low grades services...once you ordered u caught up...they are selling damaged products...then they refused to change or refund money...never order from their app...there are many other apps also...go for them blinkit are looters .."
       ],
-      "rationale": "Users are unhappy with the quality of baby care products and the service provided by Blinkit, including issues with refunds and product damage, as seen in quotes like 'blanket se koi bhi order na khariden blancate wale bahut Dhokha Dhadi kar rahe hain' and 'low grades services...once you ordered u caught up...they are selling damaged products.'"
+      "rationale": "The quality and reliability of baby care products are significant concerns, with users reporting defects and poor customer service, which is critical given the sensitive nature of these products."
     },
     {
       "category": "Health & Wellness",
-      "evidence_count": 5,
-      "total_mentions": 15,
+      "evidence_count": 6,
+      "total_mentions": 21,
       "quotes": [
+        "Bahot Khatarnaak Log He 2 Baze Raat Me DELIVERY Karte Hain inko To Medicine Bhi Delver Karna Chahiye Aur Ambulance Services Shuru Karna Chahiye",
         "delivery partner is not assigned in night even for medicine",
-        "Blinkit has had a great fall in terms of customer support. I have been misled by the images to order sizes/weights far above what I intended to, and there is no customer redressal system to even hear the customer out. I am hearing similar experiences from my friends as well. From a helpful brand it has slipped to a bullying one. Very disappointing!",
-        "free ambulance service....❤️blinkit ...we will be your faithful customer throughout our life ...keep it up...highly appreciated 🙏"
+        "Blinkit has had a great fall in terms of customer support. I have been misled by the images to order sizes/weights far above what I intended to, and there is no customer redressal system to even hear the customer out. I am hearing similar experiences from my friends as well. From a helpful brand it has slipped to a bullying one. Very disappointing!"
       ],
-      "rationale": "Users have mixed experiences with health and wellness products, including issues with customer support, product quality, and delivery, as mentioned in quotes like 'Blinkit has had a great fall in terms of customer support' and 'free ambulance service....❤️blinkit ...we will be your faithful customer throughout our life ...keep it up...highly appreciated 🙏'"
-    },
-    {
-      "category": "Fashion & Apparel Accessories",
-      "evidence_count": 5,
-      "total_mentions": 9,
-      "quotes": [
-        "good scheme and dore step fast delevery",
-        "the worst delivery app, they dont deliver in time also the delivery partners don't even lift the call, please don't install this app it's waste of time use zepto or flipkart minutes or Swiggy Instamart.",
-        "I ordered a Citizens 2-fold umbrella based on the product images but received a completely different local umbrella. The delivery partner left without allowing me to check it. Customer support made the return process frustrating, asked me to travel back to the delivery location, couldn't accept gallery images, and then closed my complaint without resolving it. Very disappointing service and misleading product listing. very poor experience we will never order from this app..."
-      ],
-      "rationale": "Users are dissatisfied with the quality of fashion and apparel accessories, and they also face issues with customer support and product returns, as stated in quotes like 'I ordered a Citizens 2-fold umbrella based on the product images but received a completely different local umbrella' and 'the worst delivery app, they dont deliver in time also the delivery partners don't even lift the call.'"
+      "rationale": "Users value the platform for health and wellness products but face challenges such as unassigned delivery partners at night for essential items like medicine, highlighting a need for better service."
     }
   ],
   "research_questions": {
     "q1_repeat_categories": {
-      "answer": "Users repeatedly buy from the same categories due to convenience, habit, and the availability of daily essentials, as seen in quotes like 'Blinkit is very convenient for quick grocery and daily essentials delivery' and 'very handy and useful at difficult times.'",
-      "evidence_count": 179
+      "answer": "Users repeatedly buy from the same categories due to convenience, habit, and the availability of preferred items, despite some experiencing issues with quality and customer support.",
+      "evidence_count": 223
     },
     "q2_exploration_blockers": {
-      "answer": "Users are prevented from exploring new categories due to issues with customer support, product quality, and delivery, as mentioned in quotes like 'giving me duplicate or poor quality product' and 'delivery man baat karne ki tamij nhi h battamij h'",
-      "evidence_count": 411
+      "answer": "High prices, poor product quality, and unhelpful customer support prevent users from exploring new categories, as these factors erode trust and satisfaction with the platform.",
+      "evidence_count": 477
     },
     "q3_discovery_channels": {
-      "answer": "Users discover products through search, as mentioned in the quote 'the app is very good and helpful, i couldn't find this product at the shop however I placed it through the blinkit'",
-      "evidence_count": 1
+      "answer": "Users primarily discover products through the app itself, with some mentioning word of mouth and search, indicating a need for the platform to enhance its discovery features.",
+      "evidence_count": 2
     },
     "q4_habit_role": {
-      "answer": "Habits play a significant role in shopping behavior, as users tend to repeatedly purchase from the same categories due to convenience and familiarity, as seen in quotes like 'very worse experience this time I recieved ordering in blinkit' and 'I'm giving 4 stars because I actually buy a lot of things from here'",
-      "evidence_count": 179
+      "answer": "Habits play a significant role in shopping behavior, with many users relying on the platform for daily essentials and quick deliveries, highlighting the importance of convenience and reliability.",
+      "evidence_count": 223
     },
     "q5_info_needed": {
-      "answer": "Users need information about product quality, pricing, and customer support before trying a new category, as mentioned in quotes like 'price too high' and 'giving me duplicate or poor quality product'",
-      "evidence_count": 200
+      "answer": "Users need information about product quality, prices, and reliable customer support before trying a new category, emphasizing the need for transparency and trust-building measures.",
+      "evidence_count": 233
     },
     "q6_recurring_frustrations": {
-      "answer": "Recurring frustrations include issues with customer support, product quality, and delivery, as seen in quotes like 'it's my best experience but blinkit delivery above 99 rupees do this is my request' and 'none of the riders bring change, they talk very rudely to the customers'",
-      "evidence_count": 411
+      "answer": "Recurring frustrations include issues with delivery, product quality, and customer support, which consistently appear across user feedback and underscore the need for improvement in these areas.",
+      "evidence_count": 477
     },
     "q7_experimenting_segments": {
-      "answer": "The 'explorer' segment is more likely to experiment with new categories, as they are curious and willing to try new products, as mentioned in the quote 'very handy and useful at difficult times'",
-      "evidence_count": 19
+      "answer": "Explorer segments are more likely to experiment with new categories and products, driven by curiosity and a desire for convenience, presenting an opportunity for targeted marketing and product development.",
+      "evidence_count": 23
     },
     "q8_unmet_needs": {
-      "answer": "Unmet needs include better customer support, product quality, and delivery, as well as more affordable pricing and convenient return processes, as mentioned in quotes like 'it's my best experience but blinkit delivery above 99 rupees do this is my request' and 'better customer service for electronics accessories'",
-      "evidence_count": 200
+      "answer": "Unmet needs include better product quality, more reliable customer support, and lower prices, which are consistently mentioned across discussions and highlight key areas for improvement to enhance user satisfaction.",
+      "evidence_count": 233
     }
   },
   "validation": {
