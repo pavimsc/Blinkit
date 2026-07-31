@@ -41045,5 +41045,5995 @@
     "discovery_channel": "none_mentioned",
     "segment_signal": "unclear",
     "sentiment": "negative"
+  },
+  "daec33fb-2fbf-49e4-9f70-1878084dfbaf": {
+    "reviewId": "daec33fb-2fbf-49e4-9f70-1878084dfbaf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9b32eb3d-5935-49a1-8ac1-d49cdf8f17ed": {
+    "reviewId": "9b32eb3d-5935-49a1-8ac1-d49cdf8f17ed",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "bb5ec2a5-07d6-40b6-b466-20608370048d": {
+    "reviewId": "bb5ec2a5-07d6-40b6-b466-20608370048d",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "regular use of the app for grocery delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "b7553419-00ab-493b-8572-7c63ae985420": {
+    "reviewId": "b7553419-00ab-493b-8572-7c63ae985420",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "53ad5d5a-3c3c-4c84-b4c2-8802191903ff": {
+    "reviewId": "53ad5d5a-3c3c-4c84-b4c2-8802191903ff",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "cfb5633e-66cd-4752-a969-ea7fceab6f93": {
+    "reviewId": "cfb5633e-66cd-4752-a969-ea7fceab6f93",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "471d3435-3cb8-456a-b197-c8104d82581f": {
+    "reviewId": "471d3435-3cb8-456a-b197-c8104d82581f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f7ecbf55-758b-4306-b448-730f28da48b8": {
+    "reviewId": "f7ecbf55-758b-4306-b448-730f28da48b8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "cc5da341-06c4-4cde-89e6-46e909734d2b": {
+    "reviewId": "cc5da341-06c4-4cde-89e6-46e909734d2b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "35d5d7f8-460a-4ca7-9056-921cc6819c96": {
+    "reviewId": "35d5d7f8-460a-4ca7-9056-921cc6819c96",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "842e7de5-7836-4232-9324-108bf1df288f": {
+    "reviewId": "842e7de5-7836-4232-9324-108bf1df288f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2fd6e7f8-408b-4665-b8cc-f68032db62ea": {
+    "reviewId": "2fd6e7f8-408b-4665-b8cc-f68032db62ea",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "40064fb0-6944-41a0-a7f5-9194ae7fe784": {
+    "reviewId": "40064fb0-6944-41a0-a7f5-9194ae7fe784",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "95d0c596-1cf8-423e-87ae-b504424f9e72": {
+    "reviewId": "95d0c596-1cf8-423e-87ae-b504424f9e72",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "76fc261f-0196-4144-bd52-4fabebf1b8db": {
+    "reviewId": "76fc261f-0196-4144-bd52-4fabebf1b8db",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5c575739-b8db-4027-ab1b-33ae87e93c58": {
+    "reviewId": "5c575739-b8db-4027-ab1b-33ae87e93c58",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3bb77517-53ec-4b88-8823-8358f0bd6c3f": {
+    "reviewId": "3bb77517-53ec-4b88-8823-8358f0bd6c3f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "2782bbcd-3bff-463e-81eb-f617e209eaa0": {
+    "reviewId": "2782bbcd-3bff-463e-81eb-f617e209eaa0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e9ed4f10-cec3-4433-88a1-df38291abd83": {
+    "reviewId": "e9ed4f10-cec3-4433-88a1-df38291abd83",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6cc66949-01a8-41bb-a507-e144250d9f25": {
+    "reviewId": "6cc66949-01a8-41bb-a507-e144250d9f25",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "ce0c93f0-4a81-4ccf-8303-cf52a9131cca": {
+    "reviewId": "ce0c93f0-4a81-4ccf-8303-cf52a9131cca",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6cc6356a-0a3f-488b-8f41-c7348944f0ec": {
+    "reviewId": "6cc6356a-0a3f-488b-8f41-c7348944f0ec",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5641f53c-8391-44df-9e12-16607425f3f7": {
+    "reviewId": "5641f53c-8391-44df-9e12-16607425f3f7",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "eff96ac3-e749-403f-a61b-01ca17fc72fe": {
+    "reviewId": "eff96ac3-e749-403f-a61b-01ca17fc72fe",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e25ab3cc-ef4d-4a11-8270-f53dd456a5e0": {
+    "reviewId": "e25ab3cc-ef4d-4a11-8270-f53dd456a5e0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "749f65d9-8afe-48a4-ac3a-a67e7bae97df": {
+    "reviewId": "749f65d9-8afe-48a4-ac3a-a67e7bae97df",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c196bf27-718e-4a1d-8d6a-ff5c6ef49753": {
+    "reviewId": "c196bf27-718e-4a1d-8d6a-ff5c6ef49753",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "found Blinkit to be the most useful and reliable option, thanks to its extensive product range, competitive pricing, and efficient delivery services",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "195fbbd4-83a8-49e6-82c6-f5803f38c24c": {
+    "reviewId": "195fbbd4-83a8-49e6-82c6-f5803f38c24c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "974ac581-58ce-49d8-bf7e-f6c24e6a8196": {
+    "reviewId": "974ac581-58ce-49d8-bf7e-f6c24e6a8196",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b4c39f15-6be5-4d60-8960-40ff79af0c63": {
+    "reviewId": "b4c39f15-6be5-4d60-8960-40ff79af0c63",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "abb0d768-fbb4-4e5d-b22d-00ebf29ffad0": {
+    "reviewId": "abb0d768-fbb4-4e5d-b22d-00ebf29ffad0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "02349ab2-a8db-4231-9715-f6c984536656": {
+    "reviewId": "02349ab2-a8db-4231-9715-f6c984536656",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5d0023fd-5418-462a-b43d-dfc15ed98bc2": {
+    "reviewId": "5d0023fd-5418-462a-b43d-dfc15ed98bc2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5ae0f296-9e6f-4849-8490-8ab7f92275ea": {
+    "reviewId": "5ae0f296-9e6f-4849-8490-8ab7f92275ea",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fefba617-0c3c-4406-beab-fe60fa0f0056": {
+    "reviewId": "fefba617-0c3c-4406-beab-fe60fa0f0056",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "16c4e33a-ac9d-4e99-8b44-da3c795233b2": {
+    "reviewId": "16c4e33a-ac9d-4e99-8b44-da3c795233b2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9066da68-7db2-4827-844b-654a5730299c": {
+    "reviewId": "9066da68-7db2-4827-844b-654a5730299c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "067315de-15ab-4783-8f27-9b7ce38401b4": {
+    "reviewId": "067315de-15ab-4783-8f27-9b7ce38401b4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "700ddc63-38dc-45bb-802c-01dc092c9b4f": {
+    "reviewId": "700ddc63-38dc-45bb-802c-01dc092c9b4f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a217ea19-6beb-442f-b15f-313a58a9edb6": {
+    "reviewId": "a217ea19-6beb-442f-b15f-313a58a9edb6",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ff634702-a5cd-4889-b623-308f9470e419": {
+    "reviewId": "ff634702-a5cd-4889-b623-308f9470e419",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f4fbd966-3a70-433c-9964-685a3491e6c1": {
+    "reviewId": "f4fbd966-3a70-433c-9964-685a3491e6c1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "44105f90-1e95-47a8-92ff-9e52b56f2b8e": {
+    "reviewId": "44105f90-1e95-47a8-92ff-9e52b56f2b8e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d9ba8b5c-4156-4fb0-bf4b-fd07effa7e2f": {
+    "reviewId": "d9ba8b5c-4156-4fb0-bf4b-fd07effa7e2f",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "offer",
+    "unmet_need": "offer",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "727e25ab-7a22-4d0d-b850-33c853da277c": {
+    "reviewId": "727e25ab-7a22-4d0d-b850-33c853da277c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "service",
+    "unmet_need": "service",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "dd470302-b99b-4a6b-a614-6806594c369a": {
+    "reviewId": "dd470302-b99b-4a6b-a614-6806594c369a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0508024d-f79f-4081-86d9-03c9742a5874": {
+    "reviewId": "0508024d-f79f-4081-86d9-03c9742a5874",
+    "category_signals": [
+      {
+        "category": "Health & Wellness",
+        "relationship": "habitual_purchase"
+      },
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "medical emergencies and food selection",
+    "friction_point": "refund",
+    "unmet_need": "refund",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "b9b37fa8-09b9-430b-a8de-18ef0ee21cbf": {
+    "reviewId": "b9b37fa8-09b9-430b-a8de-18ef0ee21cbf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dc79b833-9f59-4779-838b-2c119bb64b0f": {
+    "reviewId": "dc79b833-9f59-4779-838b-2c119bb64b0f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "10d8a09f-b608-44ce-a681-d4d2e18614e5": {
+    "reviewId": "10d8a09f-b608-44ce-a681-d4d2e18614e5",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "71318c63-06ed-4510-ab9d-6b3be5dabcc4": {
+    "reviewId": "71318c63-06ed-4510-ab9d-6b3be5dabcc4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f681a90d-e85b-49ae-8f53-416a5fa19a0b": {
+    "reviewId": "f681a90d-e85b-49ae-8f53-416a5fa19a0b",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "copy",
+    "unmet_need": "copy",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "7b09414e-05fe-4d02-b366-4d97e6ecc877": {
+    "reviewId": "7b09414e-05fe-4d02-b366-4d97e6ecc877",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "15df4b09-cda0-4bd3-992e-e9e7636235c0": {
+    "reviewId": "15df4b09-cda0-4bd3-992e-e9e7636235c0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "56ea59b9-f9d5-4ec5-948c-f0db18d01360": {
+    "reviewId": "56ea59b9-f9d5-4ec5-948c-f0db18d01360",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dac97151-c324-4f13-8409-a026eb85805b": {
+    "reviewId": "dac97151-c324-4f13-8409-a026eb85805b",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "handling charges",
+    "unmet_need": "handling charges",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "b29e35be-8097-4580-a93f-07c6cf218cd3": {
+    "reviewId": "b29e35be-8097-4580-a93f-07c6cf218cd3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "54fdfa4f-f3d1-4d34-943c-a26b7ee49040": {
+    "reviewId": "54fdfa4f-f3d1-4d34-943c-a26b7ee49040",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9b8a2dd7-16d0-442d-aff1-dbb393d59c33": {
+    "reviewId": "9b8a2dd7-16d0-442d-aff1-dbb393d59c33",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "packaging",
+    "unmet_need": "packaging",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "b7a67a77-c4d0-4604-876e-cf8d03fd77c9": {
+    "reviewId": "b7a67a77-c4d0-4604-876e-cf8d03fd77c9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "73b28961-47a9-4c07-afed-d94e0e8f4822": {
+    "reviewId": "73b28961-47a9-4c07-afed-d94e0e8f4822",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2c092e46-df5c-4028-98a5-da7f1ea2fc67": {
+    "reviewId": "2c092e46-df5c-4028-98a5-da7f1ea2fc67",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "wrong items get delivered",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "22dfd45c-ed06-4e2c-acab-ba70ae53f14c": {
+    "reviewId": "22dfd45c-ed06-4e2c-acab-ba70ae53f14c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "e57b2961-c3fe-48d1-93f4-1364ae71fc0c": {
+    "reviewId": "e57b2961-c3fe-48d1-93f4-1364ae71fc0c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "df913828-e1fe-4ce8-ba25-6d78c0bb25d8": {
+    "reviewId": "df913828-e1fe-4ce8-ba25-6d78c0bb25d8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "decb44a8-13c5-4de5-b85b-0a340741c0fc": {
+    "reviewId": "decb44a8-13c5-4de5-b85b-0a340741c0fc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "786a5063-9e37-4eec-89fb-a5239bd0de99": {
+    "reviewId": "786a5063-9e37-4eec-89fb-a5239bd0de99",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b8811e59-289a-43a0-b013-fb933d9aa097": {
+    "reviewId": "b8811e59-289a-43a0-b013-fb933d9aa097",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "86a43f8e-9cff-45e2-8403-bc09115a0088": {
+    "reviewId": "86a43f8e-9cff-45e2-8403-bc09115a0088",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a66d7e7c-2337-48b1-a4d8-cf9060ca2dbc": {
+    "reviewId": "a66d7e7c-2337-48b1-a4d8-cf9060ca2dbc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8cd51f5d-d21e-4259-9872-ac8e727eef4f": {
+    "reviewId": "8cd51f5d-d21e-4259-9872-ac8e727eef4f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "eaaa6920-1d47-4ead-a7a2-7dd67924e0b0": {
+    "reviewId": "eaaa6920-1d47-4ead-a7a2-7dd67924e0b0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ab51dae5-4417-42ff-be35-440f688b8215": {
+    "reviewId": "ab51dae5-4417-42ff-be35-440f688b8215",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f8a9dbee-46f1-4887-be31-92bee3e666da": {
+    "reviewId": "f8a9dbee-46f1-4887-be31-92bee3e666da",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3a87328e-3207-4565-ab5a-f263e8de3840": {
+    "reviewId": "3a87328e-3207-4565-ab5a-f263e8de3840",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "I can get anything I want under 10 minutes",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "d8276389-b589-40b2-8454-1d27eeca21fa": {
+    "reviewId": "d8276389-b589-40b2-8454-1d27eeca21fa",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4bc2ef0b-84a4-4d12-9995-da613b4dd3b9": {
+    "reviewId": "4bc2ef0b-84a4-4d12-9995-da613b4dd3b9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3b6b700a-6af7-47f4-abaa-d6d2b7f624c4": {
+    "reviewId": "3b6b700a-6af7-47f4-abaa-d6d2b7f624c4",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "they dont gives 9 rupees zone",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "dc682f2b-9afa-41ea-aa94-3b8ce62dcbc3": {
+    "reviewId": "dc682f2b-9afa-41ea-aa94-3b8ce62dcbc3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "63239db0-ff95-4000-a698-7a6ceab0fd93": {
+    "reviewId": "63239db0-ff95-4000-a698-7a6ceab0fd93",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2106b909-ea62-4264-ad63-c3b9a5f160ca": {
+    "reviewId": "2106b909-ea62-4264-ad63-c3b9a5f160ca",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Personal Care",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "lack of quality supervision and zero accountability",
+    "unmet_need": "quality supervision and accountability",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "9887def8-83d8-40ab-92ee-74a599014049": {
+    "reviewId": "9887def8-83d8-40ab-92ee-74a599014049",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "655723dc-e4fc-49ae-9985-f91508e0d1f3": {
+    "reviewId": "655723dc-e4fc-49ae-9985-f91508e0d1f3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4a5af28d-8ef5-4e63-8208-53d696936a57": {
+    "reviewId": "4a5af28d-8ef5-4e63-8208-53d696936a57",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4f7c73f4-5371-46c8-9543-9c1d72bc36fc": {
+    "reviewId": "4f7c73f4-5371-46c8-9543-9c1d72bc36fc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5578992d-f273-41e5-b2a7-19c64537b447": {
+    "reviewId": "5578992d-f273-41e5-b2a7-19c64537b447",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0c38c9db-c2ed-4a2e-ba71-8b7b29352cb8": {
+    "reviewId": "0c38c9db-c2ed-4a2e-ba71-8b7b29352cb8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e572f1ba-ee29-4768-8545-8f56b8151f1d": {
+    "reviewId": "e572f1ba-ee29-4768-8545-8f56b8151f1d",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "prices are high",
+    "unmet_need": "affordable prices",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "721753c6-3330-4407-a092-4fa70f2b4c78": {
+    "reviewId": "721753c6-3330-4407-a092-4fa70f2b4c78",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4b8d3cbc-c444-4d2a-8e30-7cbd6f9e9585": {
+    "reviewId": "4b8d3cbc-c444-4d2a-8e30-7cbd6f9e9585",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5d77303a-1471-4c65-8dda-a22bdfe87c08": {
+    "reviewId": "5d77303a-1471-4c65-8dda-a22bdfe87c08",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f4dc65f8-4924-43bf-9c69-ec1bda73dd34": {
+    "reviewId": "f4dc65f8-4924-43bf-9c69-ec1bda73dd34",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "74de2c0f-1066-4f81-9a00-ac2d381ce7dd": {
+    "reviewId": "74de2c0f-1066-4f81-9a00-ac2d381ce7dd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "35617c80-6a6a-4cca-9d42-ea5f133a5f04": {
+    "reviewId": "35617c80-6a6a-4cca-9d42-ea5f133a5f04",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "82aac7ae-bcdd-4cd9-8f6a-351d60a9c61d": {
+    "reviewId": "82aac7ae-bcdd-4cd9-8f6a-351d60a9c61d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3e6d8978-22c6-4cc1-a151-fbab96af21f5": {
+    "reviewId": "3e6d8978-22c6-4cc1-a151-fbab96af21f5",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "17c4630d-1539-4ebb-ad68-375a6d43925f": {
+    "reviewId": "17c4630d-1539-4ebb-ad68-375a6d43925f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "705b9e54-6c43-4201-bc5f-f81ccbee4174": {
+    "reviewId": "705b9e54-6c43-4201-bc5f-f81ccbee4174",
+    "category_signals": [
+      {
+        "category": "Electronics Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "wrong item delivered",
+    "unmet_need": "correct item delivery",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "dd1cfce9-92e5-4341-99d4-602910defef7": {
+    "reviewId": "dd1cfce9-92e5-4341-99d4-602910defef7",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a6704554-56cc-4d66-9df6-4397181e37a5": {
+    "reviewId": "a6704554-56cc-4d66-9df6-4397181e37a5",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6b82a8ef-5c1b-4dec-a190-c40fa4398a33": {
+    "reviewId": "6b82a8ef-5c1b-4dec-a190-c40fa4398a33",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "755b64a8-8843-486c-b508-b2de514c8685": {
+    "reviewId": "755b64a8-8843-486c-b508-b2de514c8685",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f687dad3-0091-481a-b2d8-30ba67e29e17": {
+    "reviewId": "f687dad3-0091-481a-b2d8-30ba67e29e17",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "d03e3966-a45f-45a0-8092-3ca02065a7fe": {
+    "reviewId": "d03e3966-a45f-45a0-8092-3ca02065a7fe",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Electronics Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "customer service",
+    "unmet_need": "responsible app",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "3a8a0694-09e9-4f74-9815-fbda9ad91ec9": {
+    "reviewId": "3a8a0694-09e9-4f74-9815-fbda9ad91ec9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9a744c73-58c0-4f6a-8112-c890b175940c": {
+    "reviewId": "9a744c73-58c0-4f6a-8112-c890b175940c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "054a9e45-e00d-443c-91f8-b3bd3e25beb7": {
+    "reviewId": "054a9e45-e00d-443c-91f8-b3bd3e25beb7",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ae5854a3-dbb3-49d9-9f03-86fc6a9f852e": {
+    "reviewId": "ae5854a3-dbb3-49d9-9f03-86fc6a9f852e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "31ad3eec-5462-47cb-8283-0b9da3525831": {
+    "reviewId": "31ad3eec-5462-47cb-8283-0b9da3525831",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "6b18645b-42ba-497f-9ce7-e960348d0cf2": {
+    "reviewId": "6b18645b-42ba-497f-9ce7-e960348d0cf2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "07697297-b99b-491b-91d2-c5175097f895": {
+    "reviewId": "07697297-b99b-491b-91d2-c5175097f895",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "bd9a180d-75a6-4ac1-b1ac-603d0391fe47": {
+    "reviewId": "bd9a180d-75a6-4ac1-b1ac-603d0391fe47",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "786b4295-e8e5-4b74-99fa-bae70a1563ce": {
+    "reviewId": "786b4295-e8e5-4b74-99fa-bae70a1563ce",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e625b227-1008-4061-9e2f-778ef5e2f4fc": {
+    "reviewId": "e625b227-1008-4061-9e2f-778ef5e2f4fc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d4e5ef57-ea3d-4d7c-882a-69ebba88fc86": {
+    "reviewId": "d4e5ef57-ea3d-4d7c-882a-69ebba88fc86",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f1e35fd8-7318-4fd9-9ed5-6c2380e84d62": {
+    "reviewId": "f1e35fd8-7318-4fd9-9ed5-6c2380e84d62",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "32496efc-1a2a-4507-a00b-94fa3551128a": {
+    "reviewId": "32496efc-1a2a-4507-a00b-94fa3551128a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "45dfd8b3-b306-47e3-bf31-efc54fdb6d25": {
+    "reviewId": "45dfd8b3-b306-47e3-bf31-efc54fdb6d25",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "727f0ef8-a48e-4db4-b675-ec2005cd0596": {
+    "reviewId": "727f0ef8-a48e-4db4-b675-ec2005cd0596",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9f9e6f66-58eb-4434-9570-e3676e9dc8b3": {
+    "reviewId": "9f9e6f66-58eb-4434-9570-e3676e9dc8b3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "28295093-398f-47ed-8588-e627fbea4abd": {
+    "reviewId": "28295093-398f-47ed-8588-e627fbea4abd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery",
+    "unmet_need": "on-time delivery",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "d0cd9b7c-590f-4024-bb31-fb5113b8ee95": {
+    "reviewId": "d0cd9b7c-590f-4024-bb31-fb5113b8ee95",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "859f6d04-533e-40a9-b052-503627ec63ae": {
+    "reviewId": "859f6d04-533e-40a9-b052-503627ec63ae",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fc66283a-cd06-43c8-8695-ece891dfb77d": {
+    "reviewId": "fc66283a-cd06-43c8-8695-ece891dfb77d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7b10c804-686f-4be4-9c0b-6580627cf3df": {
+    "reviewId": "7b10c804-686f-4be4-9c0b-6580627cf3df",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2a023b43-35a0-4d3f-8199-4ea4fa97e943": {
+    "reviewId": "2a023b43-35a0-4d3f-8199-4ea4fa97e943",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "regular customer",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "0d276509-2a81-4103-bdfd-35a9c5571650": {
+    "reviewId": "0d276509-2a81-4103-bdfd-35a9c5571650",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "regular customer",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "fd7a9cb2-93f7-4b83-b56a-73a06fdbf4b9": {
+    "reviewId": "fd7a9cb2-93f7-4b83-b56a-73a06fdbf4b9",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "handling charge",
+    "unmet_need": "no handling charge",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "5663de77-166c-4565-9446-96c6078c5092": {
+    "reviewId": "5663de77-166c-4565-9446-96c6078c5092",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ac562d75-1ec2-4273-8435-111e0854d3ed": {
+    "reviewId": "ac562d75-1ec2-4273-8435-111e0854d3ed",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "661acbbc-cd6e-4654-8867-bc8ac28e20bd": {
+    "reviewId": "661acbbc-cd6e-4654-8867-bc8ac28e20bd",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "handling charge",
+    "unmet_need": "no handling charge",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "5bfd3dc4-3507-4f53-9d4e-6b5f791e68e2": {
+    "reviewId": "5bfd3dc4-3507-4f53-9d4e-6b5f791e68e2",
+    "category_signals": [
+      {
+        "category": "Fruits & Vegetables",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "freshness",
+    "unmet_need": "fresh produce",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "negative"
+  },
+  "4c1b5142-82f4-4f43-953d-ecd009bbe91c": {
+    "reviewId": "4c1b5142-82f4-4f43-953d-ecd009bbe91c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "bc7f6276-468e-4659-ba42-d0ce84f25ba1": {
+    "reviewId": "bc7f6276-468e-4659-ba42-d0ce84f25ba1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "4b878c30-78fb-48b8-988a-b69a098076e2": {
+    "reviewId": "4b878c30-78fb-48b8-988a-b69a098076e2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5b5cd4c5-cdc0-4677-9c49-981536f5a586": {
+    "reviewId": "5b5cd4c5-cdc0-4677-9c49-981536f5a586",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "daily needs",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "1c36b528-6d0a-4e04-82dd-8247ba546975": {
+    "reviewId": "1c36b528-6d0a-4e04-82dd-8247ba546975",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "regular customer",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "0871afaf-a8da-4117-9ca1-a485e90b1d3b": {
+    "reviewId": "0871afaf-a8da-4117-9ca1-a485e90b1d3b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "603884c8-3432-48a3-bb7d-ff3323dc76a4": {
+    "reviewId": "603884c8-3432-48a3-bb7d-ff3323dc76a4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dcd8ceda-2326-4ddb-b53b-5b46351b8d0e": {
+    "reviewId": "dcd8ceda-2326-4ddb-b53b-5b46351b8d0e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e145f296-9121-48d4-9379-9508f0895d8e": {
+    "reviewId": "e145f296-9121-48d4-9379-9508f0895d8e",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Other",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "India Gate raw Rice",
+    "unmet_need": "quality",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "646af17f-e93d-414b-b68c-dfb3cdc34200": {
+    "reviewId": "646af17f-e93d-414b-b68c-dfb3cdc34200",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Other",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "service charge",
+    "unmet_need": "affordability",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "5d7d0577-18ac-4046-9b29-a1ab70b03e7c": {
+    "reviewId": "5d7d0577-18ac-4046-9b29-a1ab70b03e7c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ad557d19-83cc-493b-90c2-d1e7381512b2": {
+    "reviewId": "ad557d19-83cc-493b-90c2-d1e7381512b2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "074b3d59-ab7a-43e0-a337-ecbcd5fbfef6": {
+    "reviewId": "074b3d59-ab7a-43e0-a337-ecbcd5fbfef6",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "4b62400e-e162-4aa0-9b77-08d6c09e568e": {
+    "reviewId": "4b62400e-e162-4aa0-9b77-08d6c09e568e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dc21e566-536b-4b5f-83ee-705518f3cff2": {
+    "reviewId": "dc21e566-536b-4b5f-83ee-705518f3cff2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "a95f6b8f-4937-4d11-a938-13c4c3ded28f": {
+    "reviewId": "a95f6b8f-4937-4d11-a938-13c4c3ded28f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8f486947-1a2f-479a-8592-ae663cc339c8": {
+    "reviewId": "8f486947-1a2f-479a-8592-ae663cc339c8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ffa1f6ca-517b-40c0-b30c-3bf7b1b2a975": {
+    "reviewId": "ffa1f6ca-517b-40c0-b30c-3bf7b1b2a975",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3bc80dc1-6995-4917-a839-df40f96bd9c1": {
+    "reviewId": "3bc80dc1-6995-4917-a839-df40f96bd9c1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a7268bcf-e199-4991-a16b-14f0b09a8481": {
+    "reviewId": "a7268bcf-e199-4991-a16b-14f0b09a8481",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "all items are good and delivery time is very less as compared to other apps",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "b8980704-3a0f-4621-bed4-7f56f6618b9d": {
+    "reviewId": "b8980704-3a0f-4621-bed4-7f56f6618b9d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "cda62736-9f86-46ef-bfec-b8665c4fa517": {
+    "reviewId": "cda62736-9f86-46ef-bfec-b8665c4fa517",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9a2e4cbe-2351-4654-9240-5ea540f765a2": {
+    "reviewId": "9a2e4cbe-2351-4654-9240-5ea540f765a2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dcb84860-fa8b-4fb5-ba5b-84ae536e288d": {
+    "reviewId": "dcb84860-fa8b-4fb5-ba5b-84ae536e288d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1fbe5ec7-75ef-4f27-b571-37e24dfbad36": {
+    "reviewId": "1fbe5ec7-75ef-4f27-b571-37e24dfbad36",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fa930a66-7cbb-4c64-9a04-d2437c4585d5": {
+    "reviewId": "fa930a66-7cbb-4c64-9a04-d2437c4585d5",
+    "category_signals": [
+      {
+        "category": "Electronics Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "poor quality control",
+    "unmet_need": "accountability",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "17e9ddbc-ba11-4be3-a942-fb28a9d5848f": {
+    "reviewId": "17e9ddbc-ba11-4be3-a942-fb28a9d5848f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3d6d9971-d08b-4113-b1c0-7aaf2b09ea22": {
+    "reviewId": "3d6d9971-d08b-4113-b1c0-7aaf2b09ea22",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a27b3afa-8366-45eb-8b5c-907e25374a0e": {
+    "reviewId": "a27b3afa-8366-45eb-8b5c-907e25374a0e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "087f3807-a8f1-48cc-84c8-8c7d2d462edd": {
+    "reviewId": "087f3807-a8f1-48cc-84c8-8c7d2d462edd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "07c31ff1-cce8-45cc-a44c-cc79a404c724": {
+    "reviewId": "07c31ff1-cce8-45cc-a44c-cc79a404c724",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "01b4af5d-735e-4fd3-a916-184e5d30f729": {
+    "reviewId": "01b4af5d-735e-4fd3-a916-184e5d30f729",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "03f57f56-4740-4f3a-92dd-22a7457795eb": {
+    "reviewId": "03f57f56-4740-4f3a-92dd-22a7457795eb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d20fafe0-ca70-40c6-9ac8-cd649d04ea90": {
+    "reviewId": "d20fafe0-ca70-40c6-9ac8-cd649d04ea90",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "36ebcbec-9d03-4346-a0c6-de6df33ad56d": {
+    "reviewId": "36ebcbec-9d03-4346-a0c6-de6df33ad56d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "bc815d0e-82ec-4886-8124-ce0afa09963d": {
+    "reviewId": "bc815d0e-82ec-4886-8124-ce0afa09963d",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "fastest delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "c92926ef-8857-41bd-a2aa-537b6cad604c": {
+    "reviewId": "c92926ef-8857-41bd-a2aa-537b6cad604c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "90af4720-db88-404e-9bb4-53c439203be9": {
+    "reviewId": "90af4720-db88-404e-9bb4-53c439203be9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "aef6c2f2-c1b7-4e2a-911a-ee02b4bda898": {
+    "reviewId": "aef6c2f2-c1b7-4e2a-911a-ee02b4bda898",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "16c1494e-67e2-4134-86fa-9757bd5d9575": {
+    "reviewId": "16c1494e-67e2-4134-86fa-9757bd5d9575",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2f4706dd-5c49-40df-a7e1-d546cb1f4a8f": {
+    "reviewId": "2f4706dd-5c49-40df-a7e1-d546cb1f4a8f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "9b8b41eb-e881-40c3-8f56-c33ebc649132": {
+    "reviewId": "9b8b41eb-e881-40c3-8f56-c33ebc649132",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7c1ea4b0-4b54-439a-912c-39d225103ce3": {
+    "reviewId": "7c1ea4b0-4b54-439a-912c-39d225103ce3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "e87c6589-d514-46f5-a6f9-3e0923c6bb9a": {
+    "reviewId": "e87c6589-d514-46f5-a6f9-3e0923c6bb9a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c47307b5-1406-4654-817f-9ebfeba1bcbc": {
+    "reviewId": "c47307b5-1406-4654-817f-9ebfeba1bcbc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4a28921c-b62e-47b8-9490-520ecad23f16": {
+    "reviewId": "4a28921c-b62e-47b8-9490-520ecad23f16",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0e89983b-93af-4de6-ad33-9ca3ddbe0c4d": {
+    "reviewId": "0e89983b-93af-4de6-ad33-9ca3ddbe0c4d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "d4d5c5b4-2040-45f9-a781-58528ae4c6cf": {
+    "reviewId": "d4d5c5b4-2040-45f9-a781-58528ae4c6cf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f6fa16cd-027d-471f-bffc-60352a1d708a": {
+    "reviewId": "f6fa16cd-027d-471f-bffc-60352a1d708a",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "high price",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "9ca7ba26-a12e-42ff-9699-5761b8bf2b33": {
+    "reviewId": "9ca7ba26-a12e-42ff-9699-5761b8bf2b33",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "poor customer service",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "5314e7b0-dbec-49d0-a02c-76228d73a441": {
+    "reviewId": "5314e7b0-dbec-49d0-a02c-76228d73a441",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1307c4ae-1896-4789-98dd-bf9ea09a64b8": {
+    "reviewId": "1307c4ae-1896-4789-98dd-bf9ea09a64b8",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "best price and servcs",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "df60af48-6077-4db7-b11a-a2e490c24950": {
+    "reviewId": "df60af48-6077-4db7-b11a-a2e490c24950",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "509705ab-d4d6-4e61-aa40-4278c20707bd": {
+    "reviewId": "509705ab-d4d6-4e61-aa40-4278c20707bd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "0dc9a0f4-45ed-4abc-83c5-bdcaab14c503": {
+    "reviewId": "0dc9a0f4-45ed-4abc-83c5-bdcaab14c503",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "f0750fcc-8cfa-45ac-80b5-734de0b63f64": {
+    "reviewId": "f0750fcc-8cfa-45ac-80b5-734de0b63f64",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ee3858b6-4307-4cfc-9d1d-a410f4a13b07": {
+    "reviewId": "ee3858b6-4307-4cfc-9d1d-a410f4a13b07",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "01ea8e15-a157-40aa-9108-0308edc7617d": {
+    "reviewId": "01ea8e15-a157-40aa-9108-0308edc7617d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "5b12f904-545c-4734-915d-898ccad57713": {
+    "reviewId": "5b12f904-545c-4734-915d-898ccad57713",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ef1da0a4-ce08-4bbb-ac77-ad738aa1499b": {
+    "reviewId": "ef1da0a4-ce08-4bbb-ac77-ad738aa1499b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4515c44b-64e5-470e-8d13-7e055c0cf0b1": {
+    "reviewId": "4515c44b-64e5-470e-8d13-7e055c0cf0b1",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "bahut hi achcha hai aur fast delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "2f373873-3553-49d8-b8a0-68b460f1bac4": {
+    "reviewId": "2f373873-3553-49d8-b8a0-68b460f1bac4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "32cd1398-173f-42c4-ad0f-ce800511ee23": {
+    "reviewId": "32cd1398-173f-42c4-ad0f-ce800511ee23",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5b22dc36-b858-431f-9983-0000c46d713c": {
+    "reviewId": "5b22dc36-b858-431f-9983-0000c46d713c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "187ef6b2-b774-43a4-8b66-936ecbf71cd0": {
+    "reviewId": "187ef6b2-b774-43a4-8b66-936ecbf71cd0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1bcb7038-0905-49fa-9e8c-7c93ca37fc9b": {
+    "reviewId": "1bcb7038-0905-49fa-9e8c-7c93ca37fc9b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "19fb68be-01b9-40b2-a0dc-ddda83695845": {
+    "reviewId": "19fb68be-01b9-40b2-a0dc-ddda83695845",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "156d1b76-2394-4dc1-8295-ddb6c787b436": {
+    "reviewId": "156d1b76-2394-4dc1-8295-ddb6c787b436",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d2635bb5-e320-40d8-b704-533486ee257a": {
+    "reviewId": "d2635bb5-e320-40d8-b704-533486ee257a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9337d0aa-8a85-4be5-8c40-c4e72ba58624": {
+    "reviewId": "9337d0aa-8a85-4be5-8c40-c4e72ba58624",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fe97abe0-b457-4c7b-8a68-8db6b14c50b5": {
+    "reviewId": "fe97abe0-b457-4c7b-8a68-8db6b14c50b5",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e822ded3-1fac-4861-8d4c-b188fd83a223": {
+    "reviewId": "e822ded3-1fac-4861-8d4c-b188fd83a223",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "76ac9c2d-1c80-4132-8cdd-a4a1a0ce4e27": {
+    "reviewId": "76ac9c2d-1c80-4132-8cdd-a4a1a0ce4e27",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "c3ea5dbf-0586-41c8-a788-d308b5ebe815": {
+    "reviewId": "c3ea5dbf-0586-41c8-a788-d308b5ebe815",
+    "category_signals": [
+      {
+        "category": "Home & Kitchen Needs",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "nice app for home delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "7a60e88d-ecad-414b-8f8f-d2a161385f9c": {
+    "reviewId": "7a60e88d-ecad-414b-8f8f-d2a161385f9c",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "defective articles",
+    "unmet_need": "defective articles",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "00cf52ab-fe18-44c8-accd-3eed94bc1115": {
+    "reviewId": "00cf52ab-fe18-44c8-accd-3eed94bc1115",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0363aab0-e371-4100-b515-1575fdd2d6cf": {
+    "reviewId": "0363aab0-e371-4100-b515-1575fdd2d6cf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "a9191339-400f-4951-b2f0-a76a6f5d755b": {
+    "reviewId": "a9191339-400f-4951-b2f0-a76a6f5d755b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "20f4fc6b-bede-4184-a75a-015a75cffa9f": {
+    "reviewId": "20f4fc6b-bede-4184-a75a-015a75cffa9f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "29a571c7-c7eb-4a08-b160-8a871de85ac6": {
+    "reviewId": "29a571c7-c7eb-4a08-b160-8a871de85ac6",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8b3e2cc4-5169-46ba-9b81-8795c366a854": {
+    "reviewId": "8b3e2cc4-5169-46ba-9b81-8795c366a854",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Home & Kitchen Needs",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "monopoly near bagru, high convenience fee and delivery charges, bad behaviour from delivery partners",
+    "unmet_need": "monopoly near bagru, high convenience fee and delivery charges, bad behaviour from delivery partners",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "06e0b6a2-0c5f-4181-baf0-ebc7eb93ef46": {
+    "reviewId": "06e0b6a2-0c5f-4181-baf0-ebc7eb93ef46",
+    "category_signals": [
+      {
+        "category": "Health & Wellness",
+        "relationship": "curious_exploring"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "explorer",
+    "sentiment": "positive"
+  },
+  "4de145e9-275f-4664-824b-e2c1c6ed9784": {
+    "reviewId": "4de145e9-275f-4664-824b-e2c1c6ed9784",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "39da211c-1a2f-4d32-b074-b436bc72cbee": {
+    "reviewId": "39da211c-1a2f-4d32-b074-b436bc72cbee",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9975d9cd-eb70-461e-be68-134ca43bbe37": {
+    "reviewId": "9975d9cd-eb70-461e-be68-134ca43bbe37",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3cbfe259-edaa-416f-b2ed-e755f50a0ae4": {
+    "reviewId": "3cbfe259-edaa-416f-b2ed-e755f50a0ae4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "47a30f8c-44a3-4518-91d1-7c2c057179bc": {
+    "reviewId": "47a30f8c-44a3-4518-91d1-7c2c057179bc",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "Print out's is good option",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "20d98661-a86e-48e7-ae2a-cc2f6d62d253": {
+    "reviewId": "20d98661-a86e-48e7-ae2a-cc2f6d62d253",
+    "category_signals": [
+      {
+        "category": "Other",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "customer support",
+    "unmet_need": "customer support",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "c65866fd-6824-4db9-8929-59a5b1993a98": {
+    "reviewId": "c65866fd-6824-4db9-8929-59a5b1993a98",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7b4116ae-1947-473b-8ca1-1063648a78ed": {
+    "reviewId": "7b4116ae-1947-473b-8ca1-1063648a78ed",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "excellent and wonderful service Replacement is also faster",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "865f38fc-6e0a-4dfa-97d5-437c5bd1cc0a": {
+    "reviewId": "865f38fc-6e0a-4dfa-97d5-437c5bd1cc0a",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery time",
+    "unmet_need": "delivery time",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "8cbda5d6-96df-4d12-9d8d-6611b982c827": {
+    "reviewId": "8cbda5d6-96df-4d12-9d8d-6611b982c827",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d320311c-cedf-4747-adc2-706444ac0a1c": {
+    "reviewId": "d320311c-cedf-4747-adc2-706444ac0a1c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5a4f7253-def6-4ac8-bf36-cc91485c7564": {
+    "reviewId": "5a4f7253-def6-4ac8-bf36-cc91485c7564",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c39ea918-7ffc-47cd-bb28-240387a66ef8": {
+    "reviewId": "c39ea918-7ffc-47cd-bb28-240387a66ef8",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      },
+      {
+        "category": "Other",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "System is nice but,....... Support is bad......",
+    "friction_point": "customer support",
+    "unmet_need": "customer support",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "48ba6097-e98e-4788-9021-f5590f9c7c08": {
+    "reviewId": "48ba6097-e98e-4788-9021-f5590f9c7c08",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "fast delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3471b9f9-2307-4879-abf2-31917cfa9306": {
+    "reviewId": "3471b9f9-2307-4879-abf2-31917cfa9306",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "price",
+    "unmet_need": "price",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "9226d7ae-2117-44ba-9281-e55ca1daef34": {
+    "reviewId": "9226d7ae-2117-44ba-9281-e55ca1daef34",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2cb2e7e4-1cf1-478f-80ab-3144fa18d772": {
+    "reviewId": "2cb2e7e4-1cf1-478f-80ab-3144fa18d772",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3527ddd9-70b9-4fa8-9d45-f44eff7b518b": {
+    "reviewId": "3527ddd9-70b9-4fa8-9d45-f44eff7b518b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f506938f-72f2-48ed-8c82-ae362f8263b7": {
+    "reviewId": "f506938f-72f2-48ed-8c82-ae362f8263b7",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ]
+  },
+  "d8b80ae2-92ef-434b-8520-fab3fbe54a52": {
+    "reviewId": "d8b80ae2-92ef-434b-8520-fab3fbe54a52",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "always love to buy with this app",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "word_of_mouth",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "5f6a1cc8-bc19-4c74-aa3f-7850fa889804": {
+    "reviewId": "5f6a1cc8-bc19-4c74-aa3f-7850fa889804",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "51c49c15-9f94-44eb-acf7-c6f5f65c7adf": {
+    "reviewId": "51c49c15-9f94-44eb-acf7-c6f5f65c7adf",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "damp and unusable",
+    "unmet_need": "quality",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "3afc426b-7e9b-46f1-8740-6efa0471b994": {
+    "reviewId": "3afc426b-7e9b-46f1-8740-6efa0471b994",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "hidden charge",
+    "unmet_need": "transparency",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "f36a1953-ecbd-4e06-bfc4-54166eb5e1f9": {
+    "reviewId": "f36a1953-ecbd-4e06-bfc4-54166eb5e1f9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "55ecfaf0-316b-4a3b-b854-ec4f32d7cbe4": {
+    "reviewId": "55ecfaf0-316b-4a3b-b854-ec4f32d7cbe4",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "bf3fab9b-80bf-4afa-bc3a-a18d69c49809": {
+    "reviewId": "bf3fab9b-80bf-4afa-bc3a-a18d69c49809",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "installed zepto saved 30% cash",
+    "friction_point": "costly",
+    "unmet_need": "affordability",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "9e269036-3371-48a5-bb66-ffc9144f9da3": {
+    "reviewId": "9e269036-3371-48a5-bb66-ffc9144f9da3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dfe0bffc-1c4a-41ed-8e8d-f6d3a2192bed": {
+    "reviewId": "dfe0bffc-1c4a-41ed-8e8d-f6d3a2192bed",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9bfda0c4-7552-4d27-92ce-d5e40e487c18": {
+    "reviewId": "9bfda0c4-7552-4d27-92ce-d5e40e487c18",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "cf43aad1-2e5d-4a31-8ed2-2657ff85a884": {
+    "reviewId": "cf43aad1-2e5d-4a31-8ed2-2657ff85a884",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "db594bdc-6713-4b7d-a02e-d100bb69b8f3": {
+    "reviewId": "db594bdc-6713-4b7d-a02e-d100bb69b8f3",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "pricing",
+    "unmet_need": "affordability",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "e11f47de-3d1a-47c5-a441-8cdf749d3b50": {
+    "reviewId": "e11f47de-3d1a-47c5-a441-8cdf749d3b50",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "using blinkit to be honest",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "aea64a12-baf2-4219-9372-c756d1005e55": {
+    "reviewId": "aea64a12-baf2-4219-9372-c756d1005e55",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ba6d2ba9-1c11-4ff3-87b6-7d7a2a8cbe1b": {
+    "reviewId": "ba6d2ba9-1c11-4ff3-87b6-7d7a2a8cbe1b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "management",
+    "unmet_need": "quality",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "9751b29f-d448-4940-b583-3e8c4c0780e2": {
+    "reviewId": "9751b29f-d448-4940-b583-3e8c4c0780e2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "refund",
+    "unmet_need": "customer support",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "70b466f7-c24e-44e2-97fc-20f44988568c": {
+    "reviewId": "70b466f7-c24e-44e2-97fc-20f44988568c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "879f5e55-d5c5-430d-b682-fbaf76386a43": {
+    "reviewId": "879f5e55-d5c5-430d-b682-fbaf76386a43",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "using Blinkit partners",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "4a43cfb6-d475-4eae-8394-e2896a45e2ee": {
+    "reviewId": "4a43cfb6-d475-4eae-8394-e2896a45e2ee",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "4904290f-4bba-4181-aca5-626120b2516a": {
+    "reviewId": "4904290f-4bba-4181-aca5-626120b2516a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "3faa1fb5-7747-48e1-ab7e-e6206a5a3b8a": {
+    "reviewId": "3faa1fb5-7747-48e1-ab7e-e6206a5a3b8a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "d4a4629f-680b-49da-9ea2-564f978b2cb9": {
+    "reviewId": "d4a4629f-680b-49da-9ea2-564f978b2cb9",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "cancelled order",
+    "unmet_need": "refund",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "981c7053-a1cc-4907-90d6-8431fe096d4f": {
+    "reviewId": "981c7053-a1cc-4907-90d6-8431fe096d4f",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "no coupons",
+    "unmet_need": "discount",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "cb913fdb-cf93-4dcb-ba47-220db8aef73b": {
+    "reviewId": "cb913fdb-cf93-4dcb-ba47-220db8aef73b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "7eef8022-95cc-48dc-aa66-3c9663d06187": {
+    "reviewId": "7eef8022-95cc-48dc-aa66-3c9663d06187",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "98b54bcc-f9c7-4586-aeef-306fc485120a": {
+    "reviewId": "98b54bcc-f9c7-4586-aeef-306fc485120a",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "purchase fmcg product",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "a9801247-f3e7-4111-8c03-4e161d0db02a": {
+    "reviewId": "a9801247-f3e7-4111-8c03-4e161d0db02a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "0f78a01b-288f-4c90-8127-399685db2b38": {
+    "reviewId": "0f78a01b-288f-4c90-8127-399685db2b38",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "ee3fce5b-aa2e-4865-8b8b-e1c295e9b5cd": {
+    "reviewId": "ee3fce5b-aa2e-4865-8b8b-e1c295e9b5cd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6e64ca03-9707-4f6e-ac01-7d72b64e77f9": {
+    "reviewId": "6e64ca03-9707-4f6e-ac01-7d72b64e77f9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "304ab9a1-afea-450e-bcc5-c780b9851028": {
+    "reviewId": "304ab9a1-afea-450e-bcc5-c780b9851028",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "e90042aa-4dab-4c4e-a295-97eea1b4823e": {
+    "reviewId": "e90042aa-4dab-4c4e-a295-97eea1b4823e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "b8ba7233-464d-474c-82fb-0e52fa7e80ff": {
+    "reviewId": "b8ba7233-464d-474c-82fb-0e52fa7e80ff",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ea885db6-f789-4db0-a404-4c7b4ac0e3e1": {
+    "reviewId": "ea885db6-f789-4db0-a404-4c7b4ac0e3e1",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "handling bag",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "db2d54c0-8ae4-4660-8c85-05925f6728fa": {
+    "reviewId": "db2d54c0-8ae4-4660-8c85-05925f6728fa",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "purchase fmcg product",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "94e43deb-e30f-4829-83b2-0726a1609168": {
+    "reviewId": "94e43deb-e30f-4829-83b2-0726a1609168",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "demge product",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "fe9f39ee-2e97-4b51-8311-a81574fcdf87": {
+    "reviewId": "fe9f39ee-2e97-4b51-8311-a81574fcdf87",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "23a4968a-a969-4233-b5a5-37face8fb343": {
+    "reviewId": "23a4968a-a969-4233-b5a5-37face8fb343",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f9214176-050e-4e11-ab67-420499c01911": {
+    "reviewId": "f9214176-050e-4e11-ab67-420499c01911",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "57b1de7a-87ca-446a-ac01-cc3810473f45": {
+    "reviewId": "57b1de7a-87ca-446a-ac01-cc3810473f45",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "best app for groceries and others",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "ecd04b22-a3fd-40a3-bd34-cfd5839f2deb": {
+    "reviewId": "ecd04b22-a3fd-40a3-bd34-cfd5839f2deb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ef64a5b2-a266-42ab-9ee5-caba3571acaa": {
+    "reviewId": "ef64a5b2-a266-42ab-9ee5-caba3571acaa",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "scheduling feature",
+    "unmet_need": "scheduling feature",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "explorer",
+    "sentiment": "negative"
+  },
+  "14ac4db4-41a3-4c17-818b-1527d7eec465": {
+    "reviewId": "14ac4db4-41a3-4c17-818b-1527d7eec465",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "ee69f8f5-8da8-46aa-9064-201f63774870": {
+    "reviewId": "ee69f8f5-8da8-46aa-9064-201f63774870",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2d4ff62c-a963-4220-94ea-c7dd343162c0": {
+    "reviewId": "2d4ff62c-a963-4220-94ea-c7dd343162c0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ec3817e3-361a-483c-bec1-1fdaa489d7f8": {
+    "reviewId": "ec3817e3-361a-483c-bec1-1fdaa489d7f8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4133ccd3-5cd7-4c35-a574-2b556edb1080": {
+    "reviewId": "4133ccd3-5cd7-4c35-a574-2b556edb1080",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9ab72975-f458-495f-8f5a-6bc226bc5f59": {
+    "reviewId": "9ab72975-f458-495f-8f5a-6bc226bc5f59",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "abde23b7-57d1-4e3a-90d1-959a48c20a10": {
+    "reviewId": "abde23b7-57d1-4e3a-90d1-959a48c20a10",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "94a413f5-b69c-4a3d-a39d-73e11b84b5e8": {
+    "reviewId": "94a413f5-b69c-4a3d-a39d-73e11b84b5e8",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "price",
+    "unmet_need": "price",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "125b3274-0da5-401c-a3f5-435044e480a1": {
+    "reviewId": "125b3274-0da5-401c-a3f5-435044e480a1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "3771fe93-bf13-4a78-b2ba-58fff279e842": {
+    "reviewId": "3771fe93-bf13-4a78-b2ba-58fff279e842",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e2513c10-c4e9-42a7-bc4a-f814aae24746": {
+    "reviewId": "e2513c10-c4e9-42a7-bc4a-f814aae24746",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c031d91f-35ca-44c0-865d-3d2457e1813a": {
+    "reviewId": "c031d91f-35ca-44c0-865d-3d2457e1813a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "79ed17e4-01d0-43a8-ab4c-e43a9e9e332f": {
+    "reviewId": "79ed17e4-01d0-43a8-ab4c-e43a9e9e332f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6763d21c-4c25-4e33-b922-458f02cd5a30": {
+    "reviewId": "6763d21c-4c25-4e33-b922-458f02cd5a30",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "461160c6-2104-4356-be1e-be1e89784d7e": {
+    "reviewId": "461160c6-2104-4356-be1e-be1e89784d7e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "86824a21-33cc-4575-9a4a-41f2cd164611": {
+    "reviewId": "86824a21-33cc-4575-9a4a-41f2cd164611",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "return policy",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "a5de7903-4903-4640-988d-0d76fe9633c8": {
+    "reviewId": "a5de7903-4903-4640-988d-0d76fe9633c8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ec5155b4-7fef-4884-ab85-7881d66a1c08": {
+    "reviewId": "ec5155b4-7fef-4884-ab85-7881d66a1c08",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c229fc31-6cfb-45ff-87f8-902a517d12da": {
+    "reviewId": "c229fc31-6cfb-45ff-87f8-902a517d12da",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "65904975-cd46-4033-b109-890a3ee6f9bc": {
+    "reviewId": "65904975-cd46-4033-b109-890a3ee6f9bc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "09925f1b-0e2d-4bac-8328-147cf78d9827": {
+    "reviewId": "09925f1b-0e2d-4bac-8328-147cf78d9827",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4eb3f7cd-70ee-4c5c-bbfb-82b1e0b7b853": {
+    "reviewId": "4eb3f7cd-70ee-4c5c-bbfb-82b1e0b7b853",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "67d8867b-7caf-4b24-9f26-8a8576189e9d": {
+    "reviewId": "67d8867b-7caf-4b24-9f26-8a8576189e9d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "15e4d71c-15c2-4e60-a757-ec58af465579": {
+    "reviewId": "15e4d71c-15c2-4e60-a757-ec58af465579",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "efc34ffa-59c9-4feb-80d2-d30ee63fae9a": {
+    "reviewId": "efc34ffa-59c9-4feb-80d2-d30ee63fae9a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e06a376e-ce75-4031-abf7-d6322bd6961e": {
+    "reviewId": "e06a376e-ce75-4031-abf7-d6322bd6961e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ea2f49a6-bcd7-4cca-bb42-9c83886675a3": {
+    "reviewId": "ea2f49a6-bcd7-4cca-bb42-9c83886675a3",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "28b0d357-e1a0-4028-972f-6113a6d82706": {
+    "reviewId": "28b0d357-e1a0-4028-972f-6113a6d82706",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8e53e4c6-8383-4199-abb2-38932053e478": {
+    "reviewId": "8e53e4c6-8383-4199-abb2-38932053e478",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1834886f-06c8-4728-b2be-0bc03badf6cc": {
+    "reviewId": "1834886f-06c8-4728-b2be-0bc03badf6cc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d1aec8c4-0961-4920-ad0f-ff856c129d3b": {
+    "reviewId": "d1aec8c4-0961-4920-ad0f-ff856c129d3b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7cd139ec-19c3-4c7d-bb75-2b613c25b4e1": {
+    "reviewId": "7cd139ec-19c3-4c7d-bb75-2b613c25b4e1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "aaf45366-a965-4088-bf56-63181b389085": {
+    "reviewId": "aaf45366-a965-4088-bf56-63181b389085",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "one of the best grocery shopping app",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "f15204ad-6477-4a58-936e-de862207f415": {
+    "reviewId": "f15204ad-6477-4a58-936e-de862207f415",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f46f5535-1d59-4db4-93b5-7a97cce01f15": {
+    "reviewId": "f46f5535-1d59-4db4-93b5-7a97cce01f15",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "02729d40-fa8f-4032-acfc-afef0015d6a8": {
+    "reviewId": "02729d40-fa8f-4032-acfc-afef0015d6a8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a20b6844-a942-44ea-bbcb-9ac0c86c1e8d": {
+    "reviewId": "a20b6844-a942-44ea-bbcb-9ac0c86c1e8d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "11cee36b-f169-437e-a37d-1c6f801093eb": {
+    "reviewId": "11cee36b-f169-437e-a37d-1c6f801093eb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "86ae1f18-816e-49e6-8b21-b728ce78a228": {
+    "reviewId": "86ae1f18-816e-49e6-8b21-b728ce78a228",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6c92abec-0798-40e3-9d35-48ec6e384f8b": {
+    "reviewId": "6c92abec-0798-40e3-9d35-48ec6e384f8b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "4a19dc75-37e3-4e01-8c54-16d7eda75c4d": {
+    "reviewId": "4a19dc75-37e3-4e01-8c54-16d7eda75c4d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7a5f19e5-d08b-4e1a-bbca-bb3c6e887463": {
+    "reviewId": "7a5f19e5-d08b-4e1a-bbca-bb3c6e887463",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "defected items",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "80cee5f7-eabd-48c6-af26-b8fedd3d0897": {
+    "reviewId": "80cee5f7-eabd-48c6-af26-b8fedd3d0897",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "89efedfc-8f97-4867-8c05-b89effe0e702": {
+    "reviewId": "89efedfc-8f97-4867-8c05-b89effe0e702",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "113c8165-6476-4796-a01f-7b6e6c7a2827": {
+    "reviewId": "113c8165-6476-4796-a01f-7b6e6c7a2827",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "regular delivery and packaging",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "c67bf721-1820-4a2d-acf2-915fabe07d65": {
+    "reviewId": "c67bf721-1820-4a2d-acf2-915fabe07d65",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "eb33ef96-4349-45b4-98dd-7431a9ec2e7d": {
+    "reviewId": "eb33ef96-4349-45b4-98dd-7431a9ec2e7d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3b3cb4a1-8af2-4e81-bdf7-1679bfa1029f": {
+    "reviewId": "3b3cb4a1-8af2-4e81-bdf7-1679bfa1029f",
+    "category_signals": [
+      {
+        "category": "Health & Wellness",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "emergency services",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "d1b0a70d-2e02-40f5-a666-8de0d75057c1": {
+    "reviewId": "d1b0a70d-2e02-40f5-a666-8de0d75057c1",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ce09c4f7-753a-4e38-9434-58f0f368c28f": {
+    "reviewId": "ce09c4f7-753a-4e38-9434-58f0f368c28f",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Fashion & Apparel Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "defected items and poor customer service",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "8c454296-2749-42fd-a032-ba25fcd050f2": {
+    "reviewId": "8c454296-2749-42fd-a032-ba25fcd050f2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "f6dcf32b-3051-4597-9063-6dee6d394e0f": {
+    "reviewId": "f6dcf32b-3051-4597-9063-6dee6d394e0f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a20da4d6-e42a-40b0-a3b0-c5d4ec85bd53": {
+    "reviewId": "a20da4d6-e42a-40b0-a3b0-c5d4ec85bd53",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "c2997a6d-254d-4ea9-9d4f-bde006cbe240": {
+    "reviewId": "c2997a6d-254d-4ea9-9d4f-bde006cbe240",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "3377a711-f209-4fd8-9368-8bf78b7ee148": {
+    "reviewId": "3377a711-f209-4fd8-9368-8bf78b7ee148",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "d5985034-fe42-4de0-8fba-71ed96d173fb": {
+    "reviewId": "d5985034-fe42-4de0-8fba-71ed96d173fb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1b19b468-9d48-455e-8d5c-1c20acbcec95": {
+    "reviewId": "1b19b468-9d48-455e-8d5c-1c20acbcec95",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2a5fe7b8-c1c7-4dae-b0d7-61f42a711229": {
+    "reviewId": "2a5fe7b8-c1c7-4dae-b0d7-61f42a711229",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2d8ff587-91ad-4400-b227-d66afdf35e5a": {
+    "reviewId": "2d8ff587-91ad-4400-b227-d66afdf35e5a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9f1abbb1-d57a-47a1-8dfa-068a7c672023": {
+    "reviewId": "9f1abbb1-d57a-47a1-8dfa-068a7c672023",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "late night delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "70ebba16-bded-47d4-8cb9-49c7a86b9c5a": {
+    "reviewId": "70ebba16-bded-47d4-8cb9-49c7a86b9c5a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "f1c96770-96f5-4a12-a86e-9adc1743fb6b": {
+    "reviewId": "f1c96770-96f5-4a12-a86e-9adc1743fb6b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "slow service",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "441d98db-8e3f-4b56-9021-3cdf066330dc": {
+    "reviewId": "441d98db-8e3f-4b56-9021-3cdf066330dc",
+    "category_signals": [
+      {
+        "category": "Health & Wellness",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "medicines without prescription",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "fc0d5024-990e-46ff-9512-df8276d31b1e": {
+    "reviewId": "fc0d5024-990e-46ff-9512-df8276d31b1e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "88caa5dc-4037-459d-b4d6-f6023cb42f2f": {
+    "reviewId": "88caa5dc-4037-459d-b4d6-f6023cb42f2f",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "late night delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "6a8774da-d970-4405-b572-8c4d56a1294b": {
+    "reviewId": "6a8774da-d970-4405-b572-8c4d56a1294b",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "fast delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "455599d4-873c-4f76-a1c2-5e6c7fc01313": {
+    "reviewId": "455599d4-873c-4f76-a1c2-5e6c7fc01313",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "fast and responsive",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "fe2ace80-e816-40b5-8fd1-b9fe998a36ec": {
+    "reviewId": "fe2ace80-e816-40b5-8fd1-b9fe998a36ec",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "no discount",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "fddb32dd-e2a6-41b9-99b7-4367d8fce618": {
+    "reviewId": "fddb32dd-e2a6-41b9-99b7-4367d8fce618",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "super fast delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "8b39a043-d716-41f1-918b-e4049e3110a2": {
+    "reviewId": "8b39a043-d716-41f1-918b-e4049e3110a2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "564117c8-6f03-47e8-adfb-1e5c42e9a016": {
+    "reviewId": "564117c8-6f03-47e8-adfb-1e5c42e9a016",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "786c8e30-ae9c-43ae-9d4f-06a1a4c37b4e": {
+    "reviewId": "786c8e30-ae9c-43ae-9d4f-06a1a4c37b4e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9303f372-c5a1-4ca0-b460-ba79ba143e7b": {
+    "reviewId": "9303f372-c5a1-4ca0-b460-ba79ba143e7b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "40a3da0a-b562-4182-98bd-9d2cbd928e27": {
+    "reviewId": "40a3da0a-b562-4182-98bd-9d2cbd928e27",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "26494574-e86d-40b6-a7dc-cc2837bc5e88": {
+    "reviewId": "26494574-e86d-40b6-a7dc-cc2837bc5e88",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "late night delivery",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "1518c29c-df06-4658-a707-e61e530d2cca": {
+    "reviewId": "1518c29c-df06-4658-a707-e61e530d2cca",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "02e61023-cae7-44a8-ba80-1ab1fb7529ac": {
+    "reviewId": "02e61023-cae7-44a8-ba80-1ab1fb7529ac",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ae22c5d3-f401-4572-af77-ab18814ebb6b": {
+    "reviewId": "ae22c5d3-f401-4572-af77-ab18814ebb6b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a080cdf2-4cb6-4415-997c-f5b70044de2c": {
+    "reviewId": "a080cdf2-4cb6-4415-997c-f5b70044de2c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ed6fc62e-cac9-47c4-aec4-5c3bb7695290": {
+    "reviewId": "ed6fc62e-cac9-47c4-aec4-5c3bb7695290",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "66db534f-370f-4f63-aa8d-b92d5107b92b": {
+    "reviewId": "66db534f-370f-4f63-aa8d-b92d5107b92b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c1dc8c05-16d9-4fb5-8d4d-de7b10dbd8e2": {
+    "reviewId": "c1dc8c05-16d9-4fb5-8d4d-de7b10dbd8e2",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "credit card payment",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "615173f4-9a56-43ea-8cdb-970e930288b3": {
+    "reviewId": "615173f4-9a56-43ea-8cdb-970e930288b3",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "fast service",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "a93cb41b-99a2-4da9-b13e-dd6c54ef6d44": {
+    "reviewId": "a93cb41b-99a2-4da9-b13e-dd6c54ef6d44",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "df685fbe-f835-4410-a103-677729d555bf": {
+    "reviewId": "df685fbe-f835-4410-a103-677729d555bf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "2b4c2af9-c854-41a4-a47a-e84dc368b041": {
+    "reviewId": "2b4c2af9-c854-41a4-a47a-e84dc368b041",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1de25319-4e27-4785-a82c-3938990818f2": {
+    "reviewId": "1de25319-4e27-4785-a82c-3938990818f2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "71c99861-e662-4f79-9026-d6430ab23532": {
+    "reviewId": "71c99861-e662-4f79-9026-d6430ab23532",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a164d77c-1b27-447e-a473-057f693db204": {
+    "reviewId": "a164d77c-1b27-447e-a473-057f693db204",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ffb78ef6-a0ca-4061-94e2-87a05dc43710": {
+    "reviewId": "ffb78ef6-a0ca-4061-94e2-87a05dc43710",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9fede847-0f75-44de-adbc-b2716d687ddc": {
+    "reviewId": "9fede847-0f75-44de-adbc-b2716d687ddc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ca827391-7c23-4fde-994c-1242e3b859c8": {
+    "reviewId": "ca827391-7c23-4fde-994c-1242e3b859c8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9b0452a7-f5d8-4305-b096-35bff6142342": {
+    "reviewId": "9b0452a7-f5d8-4305-b096-35bff6142342",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "best grocery app",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "c332517e-b704-4175-a8a6-729533430b84": {
+    "reviewId": "c332517e-b704-4175-a8a6-729533430b84",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "bafe172f-8c56-4c35-8480-cba07bd93ea5": {
+    "reviewId": "bafe172f-8c56-4c35-8480-cba07bd93ea5",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "b0c9cb69-a4db-43ee-a7ed-d41409fb9579": {
+    "reviewId": "b0c9cb69-a4db-43ee-a7ed-d41409fb9579",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "28483d53-073b-48ef-b00e-833cd1f24d27": {
+    "reviewId": "28483d53-073b-48ef-b00e-833cd1f24d27",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b4277dd1-1dc5-44d4-8203-a19846c006fb": {
+    "reviewId": "b4277dd1-1dc5-44d4-8203-a19846c006fb",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "regularly orders from Blinkit",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "51de74f5-d47e-4ede-9619-fe3b27458522": {
+    "reviewId": "51de74f5-d47e-4ede-9619-fe3b27458522",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "904d5c38-4149-4491-a5e1-12188d6bb945": {
+    "reviewId": "904d5c38-4149-4491-a5e1-12188d6bb945",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a3183f62-7171-46c1-b3b1-1f91a6d65d18": {
+    "reviewId": "a3183f62-7171-46c1-b3b1-1f91a6d65d18",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1411770c-5182-4509-9aad-afa9c192a9b9": {
+    "reviewId": "1411770c-5182-4509-9aad-afa9c192a9b9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "32064f39-257f-4be8-8d07-af99cc003317": {
+    "reviewId": "32064f39-257f-4be8-8d07-af99cc003317",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "61b5b346-730f-4785-a419-b46a7a5364af": {
+    "reviewId": "61b5b346-730f-4785-a419-b46a7a5364af",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d54d51b5-1429-4b03-bda0-6e7b6f9c850b": {
+    "reviewId": "d54d51b5-1429-4b03-bda0-6e7b6f9c850b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "0acfa35d-7a53-4451-b942-7134d83ee4ea": {
+    "reviewId": "0acfa35d-7a53-4451-b942-7134d83ee4ea",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "de270f93-3fdf-4bb0-b2fb-f639cda01c6c": {
+    "reviewId": "de270f93-3fdf-4bb0-b2fb-f639cda01c6c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f83b5f78-2c57-4555-a644-1f5b71347b6f": {
+    "reviewId": "f83b5f78-2c57-4555-a644-1f5b71347b6f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "83c3601f-00a2-4e21-9007-efef20306050": {
+    "reviewId": "83c3601f-00a2-4e21-9007-efef20306050",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b36d5fa9-7018-43bf-a196-f0abb3f1576c": {
+    "reviewId": "b36d5fa9-7018-43bf-a196-f0abb3f1576c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4ee80761-58c8-42ff-9358-6e19209e793a": {
+    "reviewId": "4ee80761-58c8-42ff-9358-6e19209e793a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "positive"
+  },
+  "7ee0bd22-98ba-4c12-9962-b954721713ba": {
+    "reviewId": "7ee0bd22-98ba-4c12-9962-b954721713ba",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "bdaafacf-514a-4dd6-aba4-774dd6f933d6": {
+    "reviewId": "bdaafacf-514a-4dd6-aba4-774dd6f933d6",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c71fa8d5-1ece-40e2-8543-dd1efd10d84e": {
+    "reviewId": "c71fa8d5-1ece-40e2-8543-dd1efd10d84e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8fe5a431-fb74-4bf4-b731-524b86067ff8": {
+    "reviewId": "8fe5a431-fb74-4bf4-b731-524b86067ff8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0ac9810e-d6d0-4fbd-87a0-550e694bda58": {
+    "reviewId": "0ac9810e-d6d0-4fbd-87a0-550e694bda58",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d8f3629e-670d-4e4b-b4d8-cfdc96f13c8f": {
+    "reviewId": "d8f3629e-670d-4e4b-b4d8-cfdc96f13c8f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "131bb9a5-8631-4311-b9eb-da7677eee0e5": {
+    "reviewId": "131bb9a5-8631-4311-b9eb-da7677eee0e5",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "regular use of the app",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "e49a5919-6b7d-444e-bd00-3ee9d4f5f3a8": {
+    "reviewId": "e49a5919-6b7d-444e-bd00-3ee9d4f5f3a8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c23380fd-e1a4-40b5-96e8-43639866cb4d": {
+    "reviewId": "c23380fd-e1a4-40b5-96e8-43639866cb4d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "507f961e-13b6-4d86-9047-933e23993862": {
+    "reviewId": "507f961e-13b6-4d86-9047-933e23993862",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "090d52c1-c757-46f8-831d-b868037d1280": {
+    "reviewId": "090d52c1-c757-46f8-831d-b868037d1280",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c31fe3a0-e20c-4961-8535-b2bb3da8fbaf": {
+    "reviewId": "c31fe3a0-e20c-4961-8535-b2bb3da8fbaf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5aef2a51-739e-44da-9f14-43a22f806d06": {
+    "reviewId": "5aef2a51-739e-44da-9f14-43a22f806d06",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "86fd6766-d8fa-4948-a6af-9045bf87bbab": {
+    "reviewId": "86fd6766-d8fa-4948-a6af-9045bf87bbab",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1031beb0-9872-4e6c-9e20-1ee83bb4b75b": {
+    "reviewId": "1031beb0-9872-4e6c-9e20-1ee83bb4b75b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c529e481-2d18-48eb-b3e8-5b00f578765f": {
+    "reviewId": "c529e481-2d18-48eb-b3e8-5b00f578765f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "903c21b3-392c-4e8b-a7ac-8dd3959d6462": {
+    "reviewId": "903c21b3-392c-4e8b-a7ac-8dd3959d6462",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "surges charges",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "e2763bd0-87d5-4f9f-84bc-d292a0416eac": {
+    "reviewId": "e2763bd0-87d5-4f9f-84bc-d292a0416eac",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "adc1fb4f-9545-40b6-aa4a-e39fd442ac62": {
+    "reviewId": "adc1fb4f-9545-40b6-aa4a-e39fd442ac62",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "853bb9c8-503d-44c4-ac6c-6a2911ba5184": {
+    "reviewId": "853bb9c8-503d-44c4-ac6c-6a2911ba5184",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5e8b81cb-a2fd-4f59-851f-6a19a5b02374": {
+    "reviewId": "5e8b81cb-a2fd-4f59-851f-6a19a5b02374",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c96a873a-f8f1-4fab-8253-9a62e472f181": {
+    "reviewId": "c96a873a-f8f1-4fab-8253-9a62e472f181",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "fc6dbfe4-3eab-4f31-8e89-4a4dc49a9cb8": {
+    "reviewId": "fc6dbfe4-3eab-4f31-8e89-4a4dc49a9cb8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2f4817e6-36e0-458b-a973-33c88c26c8fe": {
+    "reviewId": "2f4817e6-36e0-458b-a973-33c88c26c8fe",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a524d820-b2ec-46fb-97df-9cd151a4647c": {
+    "reviewId": "a524d820-b2ec-46fb-97df-9cd151a4647c",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "254f3ebc-6099-49fc-bb5a-26ba504ba2a9": {
+    "reviewId": "254f3ebc-6099-49fc-bb5a-26ba504ba2a9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "73dab242-0bf4-4fb3-8aba-2bb04e058f0d": {
+    "reviewId": "73dab242-0bf4-4fb3-8aba-2bb04e058f0d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "706d557f-c0f9-4ce4-9164-148c0aaea63a": {
+    "reviewId": "706d557f-c0f9-4ce4-9164-148c0aaea63a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "651cfd36-cf52-4e98-becc-2878a44fc7ce": {
+    "reviewId": "651cfd36-cf52-4e98-becc-2878a44fc7ce",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "item quality",
+    "unmet_need": "item quality",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "b8f99328-502f-4fcb-96f6-be0f2eb56ba5": {
+    "reviewId": "b8f99328-502f-4fcb-96f6-be0f2eb56ba5",
+    "category_signals": [],
+    "habit_signal": true,
+    "habit_reason": "regularly uses the app",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "fd4ac863-cc7c-4a3e-bda4-bbec7bf3f54b": {
+    "reviewId": "fd4ac863-cc7c-4a3e-bda4-bbec7bf3f54b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e35210ac-ed60-4948-90a2-46c0614ee674": {
+    "reviewId": "e35210ac-ed60-4948-90a2-46c0614ee674",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "4135c639-3d02-4809-922b-6606148318d9": {
+    "reviewId": "4135c639-3d02-4809-922b-6606148318d9",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "aee72207-bc18-4ff4-8165-b9e56a82fd76": {
+    "reviewId": "aee72207-bc18-4ff4-8165-b9e56a82fd76",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ab5cfcab-7cd3-468b-97ce-30c82181b520": {
+    "reviewId": "ab5cfcab-7cd3-468b-97ce-30c82181b520",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7f310571-cc37-469e-a0ac-b5285ea61863": {
+    "reviewId": "7f310571-cc37-469e-a0ac-b5285ea61863",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ed941f56-fb18-4ccf-b49b-0c309feb2343": {
+    "reviewId": "ed941f56-fb18-4ccf-b49b-0c309feb2343",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "81edd272-d9fb-4136-9e21-9466f46f8cd8": {
+    "reviewId": "81edd272-d9fb-4136-9e21-9466f46f8cd8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "a1cd8f38-d3a8-47da-9b1a-fa4cabb3c1dd": {
+    "reviewId": "a1cd8f38-d3a8-47da-9b1a-fa4cabb3c1dd",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "customer service",
+    "unmet_need": "customer service",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "7e0d74a2-6354-44e6-8d56-0dddb0ffba39": {
+    "reviewId": "7e0d74a2-6354-44e6-8d56-0dddb0ffba39",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f2b24e63-3ca9-44fe-8691-e27aeb32658f": {
+    "reviewId": "f2b24e63-3ca9-44fe-8691-e27aeb32658f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "eba97ac2-03a4-4be5-9652-dadb46060bb8": {
+    "reviewId": "eba97ac2-03a4-4be5-9652-dadb46060bb8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "6e836f39-00fe-4e4e-ba88-d1d80a2e8af7": {
+    "reviewId": "6e836f39-00fe-4e4e-ba88-d1d80a2e8af7",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "7b873871-93ca-4481-85c9-798bd1017956": {
+    "reviewId": "7b873871-93ca-4481-85c9-798bd1017956",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "2a6ff0fe-ada3-48b3-8337-5bd4e04bdb5a": {
+    "reviewId": "2a6ff0fe-ada3-48b3-8337-5bd4e04bdb5a",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "2fd9f78d-7204-4b73-a2ae-a0baabe433e4": {
+    "reviewId": "2fd9f78d-7204-4b73-a2ae-a0baabe433e4",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "faster than other brands",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "2f0b22c2-039b-4973-9df3-db3722720617": {
+    "reviewId": "2f0b22c2-039b-4973-9df3-db3722720617",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "eff665fc-33a9-4222-a1ee-903127234d91": {
+    "reviewId": "eff665fc-33a9-4222-a1ee-903127234d91",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      },
+      {
+        "category": "Personal Care",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "item delivered was different from the one shown in the app",
+    "unmet_need": "impossible to connect with customer care",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "fd5b55a0-76d2-4fab-baf5-6d4aa7ec7d57": {
+    "reviewId": "fd5b55a0-76d2-4fab-baf5-6d4aa7ec7d57",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "c9624d2d-7946-4dce-9de1-3ee48ff793a0": {
+    "reviewId": "c9624d2d-7946-4dce-9de1-3ee48ff793a0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b9ec47ab-e353-4f66-94cf-36600aaa4f62": {
+    "reviewId": "b9ec47ab-e353-4f66-94cf-36600aaa4f62",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "02b6aa7b-ef6d-460b-ab75-9fac15257a1e": {
+    "reviewId": "02b6aa7b-ef6d-460b-ab75-9fac15257a1e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "025f75fa-10bb-4b63-b467-baa92a6d019d": {
+    "reviewId": "025f75fa-10bb-4b63-b467-baa92a6d019d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "delivery boy did not listen to instructions",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "044e4db0-4c15-4c83-811f-47e05c609dbf": {
+    "reviewId": "044e4db0-4c15-4c83-811f-47e05c609dbf",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8dea2019-b524-4f7a-9b60-333e3bb2d294": {
+    "reviewId": "8dea2019-b524-4f7a-9b60-333e3bb2d294",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7a7aad50-d5c0-4750-819f-5279f910fd00": {
+    "reviewId": "7a7aad50-d5c0-4750-819f-5279f910fd00",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0703f1c8-66c3-432f-aab0-d69d77c0380d": {
+    "reviewId": "0703f1c8-66c3-432f-aab0-d69d77c0380d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "69c5cbc8-a9a9-477a-8cbc-7f7109b05665": {
+    "reviewId": "69c5cbc8-a9a9-477a-8cbc-7f7109b05665",
+    "category_signals": [
+      {
+        "category": "Snacks & Beverages",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "item was melted due to non-availability of bag",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "4229d0ce-c50e-4e66-941d-abd69088e316": {
+    "reviewId": "4229d0ce-c50e-4e66-941d-abd69088e316",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "dd7588b3-b445-4667-8d66-36bbb5b159f7": {
+    "reviewId": "dd7588b3-b445-4667-8d66-36bbb5b159f7",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "63d76054-77f6-47a6-adac-c3a3a72e9c2d": {
+    "reviewId": "63d76054-77f6-47a6-adac-c3a3a72e9c2d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "642d7f5a-cf05-4c30-9dd7-31cdb28918da": {
+    "reviewId": "642d7f5a-cf05-4c30-9dd7-31cdb28918da",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f22dfe82-6287-4615-b046-4d3910e4ab70": {
+    "reviewId": "f22dfe82-6287-4615-b046-4d3910e4ab70",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5d1a0ed3-5e8b-4b86-9c83-26f85d64504b": {
+    "reviewId": "5d1a0ed3-5e8b-4b86-9c83-26f85d64504b",
+    "category_signals": [
+      {
+        "category": "Electronics Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "used item received instead of new",
+    "unmet_need": "exchange option",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "51757e63-2cfa-46cf-8143-a2a87641d514": {
+    "reviewId": "51757e63-2cfa-46cf-8143-a2a87641d514",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "27421642-3d1e-4020-b4f9-f9de78d44212": {
+    "reviewId": "27421642-3d1e-4020-b4f9-f9de78d44212",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5113fec5-4f22-4458-922e-5d2a2e61b164": {
+    "reviewId": "5113fec5-4f22-4458-922e-5d2a2e61b164",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "poor customer service",
+    "unmet_need": "better customer service",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "dae4149d-5bfc-4945-8645-93b075ec04c5": {
+    "reviewId": "dae4149d-5bfc-4945-8645-93b075ec04c5",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "8ae1690e-f8af-40cf-9b8f-28a8d6c306f8": {
+    "reviewId": "8ae1690e-f8af-40cf-9b8f-28a8d6c306f8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "866fde45-69c1-49d6-95f1-482350265e9e": {
+    "reviewId": "866fde45-69c1-49d6-95f1-482350265e9e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fc17eb98-393e-463f-8e5a-f501a382f98d": {
+    "reviewId": "fc17eb98-393e-463f-8e5a-f501a382f98d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "5aac2479-3866-46b8-a66d-0d4069a00103": {
+    "reviewId": "5aac2479-3866-46b8-a66d-0d4069a00103",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "missing item",
+    "unmet_need": "complete order",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "convenience-seeker",
+    "sentiment": "negative"
+  },
+  "7eac315a-f9cd-4479-bc5f-eb5a660ca0df": {
+    "reviewId": "7eac315a-f9cd-4479-bc5f-eb5a660ca0df",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "56bdc612-8df5-40fe-9ca8-85ebd95ecbcc": {
+    "reviewId": "56bdc612-8df5-40fe-9ca8-85ebd95ecbcc",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "4f0e7e4f-cf94-44e0-960f-9dd26c5ee8cd": {
+    "reviewId": "4f0e7e4f-cf94-44e0-960f-9dd26c5ee8cd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "632eb299-16e8-4f49-a744-190152ea9979": {
+    "reviewId": "632eb299-16e8-4f49-a744-190152ea9979",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "0bf0b98b-4745-45ac-8fb7-c45cfec263cb": {
+    "reviewId": "0bf0b98b-4745-45ac-8fb7-c45cfec263cb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "b6f725dc-9348-4aea-915b-d98a1594ed41": {
+    "reviewId": "b6f725dc-9348-4aea-915b-d98a1594ed41",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "poor service",
+    "unmet_need": "better service",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "cc58a74a-4a12-4957-bea8-ef8253755208": {
+    "reviewId": "cc58a74a-4a12-4957-bea8-ef8253755208",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "99b10763-1c82-4547-a621-c1ba15818943": {
+    "reviewId": "99b10763-1c82-4547-a621-c1ba15818943",
+    "category_signals": [
+      {
+        "category": "Electronics Accessories",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "poor response",
+    "unmet_need": "better response",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "04709691-82e8-46bc-a761-23571b3f4079": {
+    "reviewId": "04709691-82e8-46bc-a761-23571b3f4079",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fdbcb3cf-48e0-4891-8477-812c7933a683": {
+    "reviewId": "fdbcb3cf-48e0-4891-8477-812c7933a683",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "Madhya Pradesh ke Vidisha Jile sironj mein",
+    "unmet_need": "blanket chalana chahie",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "40e84be6-0387-41ed-947c-e1eebbbe52a2": {
+    "reviewId": "40e84be6-0387-41ed-947c-e1eebbbe52a2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "7cf87c7a-a621-475a-9467-4b6e783925ae": {
+    "reviewId": "7cf87c7a-a621-475a-9467-4b6e783925ae",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "add in between the process of ordering things",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "b31bb686-e9be-4173-9e90-6c435df0b826": {
+    "reviewId": "b31bb686-e9be-4173-9e90-6c435df0b826",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "negative"
+  },
+  "a70d67ff-7afe-4207-a59c-c4405be596a6": {
+    "reviewId": "a70d67ff-7afe-4207-a59c-c4405be596a6",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "daily needs",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "9718eb76-9f73-4742-8cec-26d8312db73e": {
+    "reviewId": "9718eb76-9f73-4742-8cec-26d8312db73e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "34598bd3-77c8-4882-b2ac-04543e845758": {
+    "reviewId": "34598bd3-77c8-4882-b2ac-04543e845758",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "curious_exploring"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": "our town",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "explorer",
+    "sentiment": "positive"
+  },
+  "2e6e68cf-be0e-4e65-b3a7-b694bd6461ab": {
+    "reviewId": "2e6e68cf-be0e-4e65-b3a7-b694bd6461ab",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9dbff589-e501-44dd-9c45-78f3b1014fa1": {
+    "reviewId": "9dbff589-e501-44dd-9c45-78f3b1014fa1",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "my city Raebareli",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "c87d4063-bdcd-41a7-999f-73e42d307589": {
+    "reviewId": "c87d4063-bdcd-41a7-999f-73e42d307589",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "neutral"
+  },
+  "cbe7458c-7c1f-47f8-b223-3aaa8ff4eba0": {
+    "reviewId": "cbe7458c-7c1f-47f8-b223-3aaa8ff4eba0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "392d0cb1-adc2-42a9-8b6b-ba4d2e02fc3c": {
+    "reviewId": "392d0cb1-adc2-42a9-8b6b-ba4d2e02fc3c",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "daily needs",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "1f9742c3-c509-45ac-abd5-63236ec36b59": {
+    "reviewId": "1f9742c3-c509-45ac-abd5-63236ec36b59",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d4b9eeef-c9ec-42e1-b235-d75ecb42c8b8": {
+    "reviewId": "d4b9eeef-c9ec-42e1-b235-d75ecb42c8b8",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f811644a-6189-4c08-953c-df9534b17271": {
+    "reviewId": "f811644a-6189-4c08-953c-df9534b17271",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "efd0dd10-3bce-4c50-812f-398422da923d": {
+    "reviewId": "efd0dd10-3bce-4c50-812f-398422da923d",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "revads",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "price-sensitive",
+    "sentiment": "negative"
+  },
+  "d9dff461-d640-4743-9420-74337bc86883": {
+    "reviewId": "d9dff461-d640-4743-9420-74337bc86883",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "f3cdeeb3-71a3-4b59-89c1-12d14d6e86c2": {
+    "reviewId": "f3cdeeb3-71a3-4b59-89c1-12d14d6e86c2",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": "service for me",
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "fe7b80b5-2a35-4552-a2ff-1690ff63e917": {
+    "reviewId": "fe7b80b5-2a35-4552-a2ff-1690ff63e917",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "c97562c0-1276-4d09-ab46-d9df1c5fafbb": {
+    "reviewId": "c97562c0-1276-4d09-ab46-d9df1c5fafbb",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "30a8d3fc-585c-4ddb-a73b-188374221b4f": {
+    "reviewId": "30a8d3fc-585c-4ddb-a73b-188374221b4f",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "e24ac776-0e02-4784-ada4-06cb048caa76": {
+    "reviewId": "e24ac776-0e02-4784-ada4-06cb048caa76",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ed6ccb69-de70-41f5-9bc2-39c72a03ff31": {
+    "reviewId": "ed6ccb69-de70-41f5-9bc2-39c72a03ff31",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "282dfee6-eac1-4763-a1e1-68d643c310bd": {
+    "reviewId": "282dfee6-eac1-4763-a1e1-68d643c310bd",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "8af92370-a2f2-4c6d-86b8-e11586c5b31e": {
+    "reviewId": "8af92370-a2f2-4c6d-86b8-e11586c5b31e",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "215ddff3-9ef0-4b94-9466-b611fa95ac6d": {
+    "reviewId": "215ddff3-9ef0-4b94-9466-b611fa95ac6d",
+    "category_signals": [
+      {
+        "category": "Groceries & Staples",
+        "relationship": "habitual_purchase"
+      }
+    ],
+    "habit_signal": true,
+    "habit_reason": "regularly buys groceries",
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "habitual",
+    "sentiment": "positive"
+  },
+  "47b1cc1e-87f2-4cdf-998b-dabb7894bbc0": {
+    "reviewId": "47b1cc1e-87f2-4cdf-998b-dabb7894bbc0",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d67d5d13-7c2c-4c7d-b486-dff1a51d2022": {
+    "reviewId": "d67d5d13-7c2c-4c7d-b486-dff1a51d2022",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "ab1cb031-74d9-4c64-abd7-31afecae8c63": {
+    "reviewId": "ab1cb031-74d9-4c64-abd7-31afecae8c63",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "1b7b75a4-7220-4a0d-97fb-1f7b007bcc53": {
+    "reviewId": "1b7b75a4-7220-4a0d-97fb-1f7b007bcc53",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "d782c76d-546b-4989-b54d-9672158f3d82": {
+    "reviewId": "d782c76d-546b-4989-b54d-9672158f3d82",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "721eda09-6caf-47f0-8806-aa9ee4971948": {
+    "reviewId": "721eda09-6caf-47f0-8806-aa9ee4971948",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "16e827af-20f6-440d-aed9-2f7702469014": {
+    "reviewId": "16e827af-20f6-440d-aed9-2f7702469014",
+    "category_signals": [
+      {
+        "category": "Fruits & Vegetables",
+        "relationship": "unmet_need_or_friction"
+      }
+    ],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": "fresh vegetables",
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "9d95c7e7-f530-4cfd-99a6-3286ca54b17b": {
+    "reviewId": "9d95c7e7-f530-4cfd-99a6-3286ca54b17b",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
+  },
+  "54c2321f-cfcb-4cdc-b908-7ef63d95a012": {
+    "reviewId": "54c2321f-cfcb-4cdc-b908-7ef63d95a012",
+    "category_signals": [],
+    "habit_signal": false,
+    "habit_reason": null,
+    "friction_point": null,
+    "unmet_need": null,
+    "discovery_channel": "none_mentioned",
+    "segment_signal": "unclear",
+    "sentiment": "positive"
   }
 }
