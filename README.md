@@ -52,10 +52,10 @@ See [problemstatement.md](problemstatement.md) for the full brief and the
    │      → data/insights.json
    │
    └─ 4. Commit data/*.json back to the repo (GITHUB_TOKEN, no extra secret)
-          GitHub Pages serves dashboard/ straight off `main`, so the live
+          GitHub Pages serves ai-discovery-engine/ straight off `main`, so the live
           site updates the moment the commit lands — no separate deploy step.
 
- dashboard/  (static HTML/CSS/JS, no build step, no framework)
+ ai-discovery-engine/  (static HTML/CSS/JS, no build step, no framework)
    fetches ../data/insights.json client-side and renders it.
 ```
 
@@ -123,7 +123,7 @@ analysis/
   synthesize_insights.py        Pass B — Python ranking + LLM rationale
   io_utils.py                   shared JSON load/save + paths
 validation/spot_check.py        human-vs-LLM agreement check
-dashboard/                      static site (index.html, app.js, style.css)
+ai-discovery-engine/            static site (index.html, app.js, style.css)
 data/                           raw_reviews.json, themes.json, insights.json
 .github/workflows/nightly.yml   cron + manual trigger automation
 ```
@@ -145,6 +145,6 @@ python analysis/extract_themes.py
 python analysis/synthesize_insights.py
 ```
 
-`data/insights.json` is what the dashboard reads — open `dashboard/index.html`
+`data/insights.json` is what the dashboard reads — open `ai-discovery-engine/index.html`
 via any local static server (not `file://`, since the browser blocks the
 `fetch()` call) to preview it.
